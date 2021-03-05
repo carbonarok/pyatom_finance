@@ -1,14 +1,14 @@
 ---
-language: "python"
-services:
-    - "docker"
-
+language: python
 python:
-    - 3.7
+    - '3.7'
 
-before_script:
-    - make build
-    - pip install black
-
+before_install:
+    - pip install poetry
+install:
+    - poetry config virtualenvs.create false
+    - poetry config installer.parallel false
+    - poetry install
 script:
-    - "make tests"
+    - "invoke build"
+    - "invoke tests"
