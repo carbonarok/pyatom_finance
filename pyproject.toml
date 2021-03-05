@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "stock-collector"
+name = "pyatom_finance"
 version = "0.1.0"
 description = "Module to collect data from Atom IO"
 authors = ["carbonarok <carbonarok@gmail.com>"]
@@ -16,6 +16,7 @@ pydocstyle = "^5.1.1"
 invoke = "^1.5.0"
 flake8 = "^3.8.4"
 bandit = "^1.7.0"
+pytest = "^6.2.2"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

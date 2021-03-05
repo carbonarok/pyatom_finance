@@ -1,6 +1,5 @@
 import json
 import requests
-from requests.models import Response
 
 from . import config as config
 from .exceptions import AtomLoginError, StockCollectorRequesterError
@@ -27,7 +26,7 @@ class Requester:
         )
         if 199 < resp.status_code < 300:
             resp = resp.json()
-            if resp["success"] == False:
+            if not resp["success"]:
                 raise AtomLoginError(
                     reason="Unable to login to Atom Finance", message=resp["error"]
                 )

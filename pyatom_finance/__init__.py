@@ -1,2 +1,2 @@
-from .collector import Collector
-from . import config
+from .collector import Collector  # NOQA
+from . import config  # NOQA
