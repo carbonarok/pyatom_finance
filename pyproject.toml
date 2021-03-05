@@ -42,6 +42,9 @@ exclude = '''
 )
 '''
 
+[tool.pylint.MASTER]
+ignore = "tests"
+
 [tool.pylint.'MESSAGES CONTROL']
 # Pylint and Black disagree about certain line continuations
 # Black handles line-too-long for us

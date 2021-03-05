@@ -9,6 +9,8 @@ install:
     - poetry config virtualenvs.create false
     - poetry config installer.parallel false
     - poetry install
+env:
+    - TRAVIS=True
 script:
     - "invoke build"
     - "invoke tests"

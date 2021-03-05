@@ -53,7 +53,7 @@ IMAGE_VER = os.getenv("IMAGE_VER", f"{PROJECT_VER}-py{PYTHON_VER}")
 # Gather current working directory for Docker commands
 PWD = os.getcwd()
 # Local or Docker execution provide "local" to run locally without docker execution
-INVOKE_LOCAL = is_truthy(os.getenv("INVOKE_LOCAL", False))  # pylint: disable=W1508
+INVOKE_LOCAL = is_truthy(os.getenv("INVOKE_LOCAL", True))  # pylint: disable=W1508
 # Name of Jenkins Buildnode Image
 JENKINS_BUILDNODE_IMAGE_NAME = f"registry.rcluster.io/rdirect/autonet-core-system-builder:{PROJECT_VER}"
 
@@ -170,7 +170,7 @@ def pylint(context):
     """
     # pty is set to true to properly run the docker commands due to the invocation process of docker
     # https://docs.pyinvoke.org/en/latest/api/runners.html - Search for pty for more information
-    exec_cmd = 'find . -name "*.py" | xargs pylint'
+    exec_cmd = 'find . -name "*.py" ! -path "*/tests/*" | xargs pylint'
     run_cmd(context, exec_cmd)
 
 
@@ -228,7 +228,8 @@ def tests(context):
     # pydocstyle(context)
     print("Running bandit...")
     bandit(context)
-    # print("Running pytest...")
-    # pytest(context)
+    if not os.getenv("TRAVIS"):
+        print("Running pytest...")
+        pytest(context)
 
     print("All tests have passed!")
