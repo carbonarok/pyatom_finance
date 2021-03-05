@@ -1,7 +1,7 @@
 import json
 import requests
 
-from . import config as config
+from . import config
 from .exceptions import AtomLoginError, StockCollectorRequesterError
 
 

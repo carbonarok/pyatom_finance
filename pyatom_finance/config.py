@@ -10,6 +10,8 @@ SETTINGS = None
 class Settings(BaseSettings):
     atom_url: str = "https://atom.finance/graphql"
     atom_signin_url: str = "https://atom.finance/session/signin"
+    base_dir: str = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    jinja2_templates: str = os.path.join(base_dir, "pyatom_finance/templates")
     username: str = ""
     password: str = ""
 
