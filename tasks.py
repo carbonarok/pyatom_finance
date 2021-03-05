@@ -7,9 +7,7 @@ from invoke import task
 try:
     import toml
 except ImportError:
-    sys.exit(
-        "Please make sure to `pip install toml` or enable the Poetry shell and run `poetry install`."
-    )
+    sys.exit("Please make sure to `pip install toml` or enable the Poetry shell and run `poetry install`.")
 
 
 def project_ver():
@@ -57,9 +55,7 @@ PWD = os.getcwd()
 # Local or Docker execution provide "local" to run locally without docker execution
 INVOKE_LOCAL = is_truthy(os.getenv("INVOKE_LOCAL", False))  # pylint: disable=W1508
 # Name of Jenkins Buildnode Image
-JENKINS_BUILDNODE_IMAGE_NAME = (
-    f"registry.rcluster.io/rdirect/autonet-core-system-builder:{PROJECT_VER}"
-)
+JENKINS_BUILDNODE_IMAGE_NAME = f"registry.rcluster.io/rdirect/autonet-core-system-builder:{PROJECT_VER}"
 
 
 def run_cmd(context, exec_cmd, local=INVOKE_LOCAL):
@@ -77,9 +73,7 @@ def run_cmd(context, exec_cmd, local=INVOKE_LOCAL):
         print(f"LOCAL - Running command {exec_cmd}")
         result = context.run(exec_cmd, pty=True)
     else:
-        print(
-            f"DOCKER - Running command: {exec_cmd} container: {IMAGE_NAME}:{IMAGE_VER}"
-        )
+        print(f"DOCKER - Running command: {exec_cmd} container: {IMAGE_NAME}:{IMAGE_VER}")
         result = context.run(
             f"docker run -it -v {PWD}:/local {IMAGE_NAME}:{IMAGE_VER} sh -c '{exec_cmd}'",
             pty=True,
@@ -101,9 +95,7 @@ def build(context):
         hide=True,
     )
     if result.exited != 0:
-        print(
-            f"Failed to build container {IMAGE_NAME}:{IMAGE_VER}\nError: {result.stderr}"
-        )
+        print(f"Failed to build container {IMAGE_NAME}:{IMAGE_VER}\nError: {result.stderr}")
 
 
 @task
@@ -230,8 +222,8 @@ def tests(context):
     black(context)
     print("Running flake8...")
     flake8(context)
-    # print("Running pylint...")
-    # pylint(context)
+    print("Running pylint...")
+    pylint(context)
     # print("Running pydocstyle...")
     # pydocstyle(context)
     print("Running bandit...")

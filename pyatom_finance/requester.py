@@ -1,3 +1,4 @@
+"""Generic requests class"""
 import json
 import requests
 
@@ -6,14 +7,15 @@ from .exceptions import AtomLoginError, StockCollectorRequesterError
 
 
 class Requester:
-    def __init__(self):
-        pass
+    """Requester class for saving Atom Finance session"""
 
-    def create_session(self):
+    def __init__(self):
         self.verify = True
         self.headers = {"Content-Type": "application/json"}
-
         self.session = requests.session()
+
+    def create_session(self):
+        """Create session saving coookies for auth"""
         payload = {
             "username": config.SETTINGS.username,
             "password": config.SETTINGS.password,
@@ -27,15 +29,12 @@ class Requester:
         if 199 < resp.status_code < 300:
             resp = resp.json()
             if not resp["success"]:
-                raise AtomLoginError(
-                    reason="Unable to login to Atom Finance", message=resp["error"]
-                )
+                raise AtomLoginError(reason="Unable to login to Atom Finance", message=resp["error"])
         else:
-            raise StockCollectorRequesterError(
-                reason="Bad HTTP statuss code", message=resp.text
-            )
+            raise StockCollectorRequesterError(reason="Bad HTTP statuss code", message=resp.text)
 
     def post_request(self, query):
+        """Generic post request"""
         resp = self.session.request(
             "POST",
             config.SETTINGS.atom_url,
@@ -44,7 +43,4 @@ class Requester:
         )
         if 199 < resp.status_code < 300:
             return resp.json()
-        else:
-            raise StockCollectorRequesterError(
-                reason="Bad HTTP status code", message=resp.text
-            )
+        raise StockCollectorRequesterError(reason="Bad HTTP status code", message=resp.text)

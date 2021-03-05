@@ -1,13 +1,18 @@
+"""PyDantic global settings and configuration"""
 import os
-import toml
 
 from pathlib import Path
 from pydantic import BaseSettings
+
+import toml
+
 
 SETTINGS = None
 
 
 class Settings(BaseSettings):
+    """Base settings used throughout PyAtom_Finance"""
+
     atom_url: str = "https://atom.finance/graphql"
     atom_signin_url: str = "https://atom.finance/session/signin"
     base_dir: str = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -17,6 +22,7 @@ class Settings(BaseSettings):
 
 
 def load(config_file_name="pyproject.toml"):
+    """PyDantic load function"""
     global SETTINGS
     if os.path.exists(config_file_name):
         config_string = Path(config_file_name).read_text()

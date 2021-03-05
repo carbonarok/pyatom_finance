@@ -19,6 +19,41 @@ flake8 = "^3.8.4"
 bandit = "^1.7.0"
 pytest = "^6.2.2"
 
+[tool.black]
+line-length = 120
+target-version = ['py36']
+include = '\.pyi?$'
+exclude = '''
+(
+  /(
+      \.eggs         # exclude a few common directories in the
+    | \.git          # root of the project
+    | \.hg
+    | \.mypy_cache
+    | \.tox
+    | \.venv
+    | _build
+    | buck-out
+    | build
+    | dist
+  )/
+  | settings.py     # This is where you define files that should not be stylized by black
+                     # the root of the project
+)
+'''
+
+[tool.pylint.'MESSAGES CONTROL']
+# Pylint and Black disagree about certain line continuations
+# Black handles line-too-long for us
+# All of the other disabled messages need to be revisited and
+# most likely re-enabled and fixed in the code base.
+disable="""
+    global-statement,
+    line-too-long,
+    super-with-arguments,
+    too-few-public-methods,
+"""
+
 [build-system]
 requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"

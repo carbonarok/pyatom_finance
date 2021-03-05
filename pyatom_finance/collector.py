@@ -1,3 +1,4 @@
+"""Collector class used for defining all data collection points to Atom Finance."""
 import jinja2
 
 from . import config
@@ -5,17 +6,20 @@ from .requester import Requester
 
 
 class Collector:
+    """Collector Class"""
+
     def __init__(self):
         self.requester = Requester()
         self.requester.create_session()
         loader = jinja2.FileSystemLoader(searchpath=config.SETTINGS.jinja2_templates)
-        self.template_env = jinja2.Environment(loader=loader)
+        self.template_env = jinja2.Environment(loader=loader, autoescape=True)
 
     def _render_template(self, template, **kwargs):
         template = self.template_env.get_template(template)
         return template.render(**kwargs)
 
     def get_better_consensuses(self, symbol):
+        """getBetterConsensuses"""
         payload = {
             "operationName": "getBetterConsensuses",
             "variables": {"symbol": symbol},
@@ -24,6 +28,7 @@ class Collector:
         return self.requester.post_request(payload)
 
     def get_brokerage_actions(self, symbol):
+        """getBrokerageActions"""
         payload = {
             "operationName": "getBrokerageActions",
             "variables": {"symbols": [symbol]},
@@ -32,6 +37,7 @@ class Collector:
         return self.requester.post_request(payload)
 
     def get_chart_interday(self, symbol):
+        """getChartInterday"""
         payload = {
             "operationName": "getChartInterday",
             "variables": {"symbol": symbol},
@@ -40,6 +46,7 @@ class Collector:
         return self.requester.post_request(payload)
 
     def get_chart_intraday(self, symbol):
+        """getChartIntraday"""
         payload = {
             "operationName": "getChartIntraday",
             "variables": {"symbol": symbol},
@@ -48,6 +55,7 @@ class Collector:
         return self.requester.post_request(payload)
 
     def get_financial_data(self, symbol):
+        """getFinancialData"""
         payload = {
             "operationName": "getFinancialData",
             "variables": {"symbol": symbol},
@@ -56,6 +64,7 @@ class Collector:
         return self.requester.post_request(payload)
 
     def get_market_cap(self, symbol):
+        """getMarketCap"""
         payload = {
             "operationName": "getMarketCap",
             "variables": {"symbol": symbol},
@@ -64,6 +73,7 @@ class Collector:
         return self.requester.post_request(payload)
 
     def get_many_events(self, symbol):
+        """getManyEvents"""
         payload = {
             "operationName": "getManyEvents",
             "variables": {"symbols": [symbol]},
@@ -72,6 +82,7 @@ class Collector:
         return self.requester.post_request(payload)
 
     def get_near_events(self, symbol):
+        """getNearEvents"""
         payload = {
             "operationName": "getNearEvents",
             "variables": {"symbols": [symbol]},
@@ -80,9 +91,11 @@ class Collector:
         return self.requester.post_request(payload)
 
     def get_news_feed(self, symbol):
+        """getNewsFeed"""
         payload = {
             "operationName": "getNewsFeed",
             "variables": {
+                "symbols": [symbol],
                 "page": 0,
                 "research": False,
             },
@@ -91,6 +104,7 @@ class Collector:
         return self.requester.post_request(payload)
 
     def get_overview_data(self, symbol):
+        """getOverviewData"""
         payload = {
             "operationName": "getOverviewData",
             "variables": {"symbol": symbol},
@@ -99,6 +113,7 @@ class Collector:
         return self.requester.post_request(payload)
 
     def get_period_guidance(self, symbol):
+        """getPeriodGuidance"""
         payload = {
             "operationName": "getPeriodGuidance",
             "variables": {
@@ -111,6 +126,7 @@ class Collector:
         return self.requester.post_request(payload)
 
     def get_relative_consensuses(self, symbol):
+        """getRelativeConsensuses"""
         payload = {
             "operationName": "getRelativeConsensuses",
             "variables": {
@@ -123,6 +139,7 @@ class Collector:
         return self.requester.post_request(payload)
 
     def get_symbol(self, symbol):
+        """getSymbol"""
         payload = {
             "operationName": "getSymbol",
             "variables": {"symbol": symbol},
