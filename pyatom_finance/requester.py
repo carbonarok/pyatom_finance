@@ -2,8 +2,8 @@
 import json
 import requests
 
-from . import config
-from .exceptions import AtomLoginError, StockCollectorRequesterError
+from pyatom_finance import config
+from pyatom_finance.exceptions import AtomLoginError, StockCollectorRequesterError
 
 
 class Requester:

@@ -1,4 +1,4 @@
 """Init file for PyAtom_Finance"""
-from . import config  # NOQA
-from .collector import Collector  # NOQA
-from .requester import Requester  # NOQA
+from pyatom_finance import config  # NOQA
+from pyatom_finance.collector import Collector  # NOQA
+from pyatom_finance.requester import Requester  # NOQA

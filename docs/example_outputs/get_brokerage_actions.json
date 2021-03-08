@@ -1,0 +1,300 @@
+{
+    "data": {
+        "symbols": [
+            {
+                "symbol": "CSCO",
+                "brokerageActions": [
+                    {
+                        "action": "Upgraded",
+                        "actionType": "Overweight",
+                        "oldActionType": "Neutral",
+                        "brokerageName": "JP Morgan",
+                        "date": "2021-03-05",
+                        "oldTargetPrice": 50,
+                        "targetPrice": 55,
+                        "__typename": "BrokerageAction"
+                    },
+                    {
+                        "action": "Upgraded",
+                        "actionType": "Buy",
+                        "oldActionType": "Hold",
+                        "brokerageName": "DZ Bank",
+                        "date": "2021-02-11",
+                        "oldTargetPrice": null,
+                        "targetPrice": 52,
+                        "__typename": "BrokerageAction"
+                    },
+                    {
+                        "action": "Upgraded",
+                        "actionType": "Buy",
+                        "oldActionType": "Neutral",
+                        "brokerageName": "New Street",
+                        "date": "2020-11-13",
+                        "oldTargetPrice": null,
+                        "targetPrice": 60,
+                        "__typename": "BrokerageAction"
+                    },
+                    {
+                        "action": "Downgraded",
+                        "actionType": "Neutral",
+                        "oldActionType": "Buy",
+                        "brokerageName": "Citigroup",
+                        "date": "2020-10-12",
+                        "oldTargetPrice": 48,
+                        "targetPrice": 43,
+                        "__typename": "BrokerageAction"
+                    },
+                    {
+                        "action": "Resumed",
+                        "actionType": "Neutral",
+                        "oldActionType": null,
+                        "brokerageName": "UBS",
+                        "date": "2020-09-23",
+                        "oldTargetPrice": null,
+                        "targetPrice": 41,
+                        "__typename": "BrokerageAction"
+                    },
+                    {
+                        "action": "Downgraded",
+                        "actionType": "Peer Perform",
+                        "oldActionType": "Outperform",
+                        "brokerageName": "Wolfe Research",
+                        "date": "2020-09-18",
+                        "oldTargetPrice": null,
+                        "targetPrice": 42,
+                        "__typename": "BrokerageAction"
+                    },
+                    {
+                        "action": "Initiated",
+                        "actionType": "Outperform",
+                        "oldActionType": null,
+                        "brokerageName": "Wolfe Research",
+                        "date": "2020-07-24",
+                        "oldTargetPrice": null,
+                        "targetPrice": null,
+                        "__typename": "BrokerageAction"
+                    },
+                    {
+                        "action": "Downgraded",
+                        "actionType": "Neutral",
+                        "oldActionType": "Overweight",
+                        "brokerageName": "JP Morgan",
+                        "date": "2020-07-16",
+                        "oldTargetPrice": null,
+                        "targetPrice": 50,
+                        "__typename": "BrokerageAction"
+                    },
+                    {
+                        "action": "Upgraded",
+                        "actionType": "Overweight",
+                        "oldActionType": "Equal-Weight",
+                        "brokerageName": "Morgan Stanley",
+                        "date": "2020-07-09",
+                        "oldTargetPrice": null,
+                        "targetPrice": 54,
+                        "__typename": "BrokerageAction"
+                    },
+                    {
+                        "action": "Upgraded",
+                        "actionType": "Buy",
+                        "oldActionType": "Neutral",
+                        "brokerageName": "BofA/Merrill",
+                        "date": "2020-06-16",
+                        "oldTargetPrice": 48,
+                        "targetPrice": 55,
+                        "__typename": "BrokerageAction"
+                    },
+                    {
+                        "action": "Downgraded",
+                        "actionType": "Neutral",
+                        "oldActionType": "Outperform",
+                        "brokerageName": "Robert W. Baird",
+                        "date": "2020-06-10",
+                        "oldTargetPrice": null,
+                        "targetPrice": 48,
+                        "__typename": "BrokerageAction"
+                    },
+                    {
+                        "action": "Downgraded",
+                        "actionType": "Sector Weight",
+                        "oldActionType": "Overweight",
+                        "brokerageName": "KeyBanc Capital Markets",
+                        "date": "2020-04-17",
+                        "oldTargetPrice": null,
+                        "targetPrice": null,
+                        "__typename": "BrokerageAction"
+                    },
+                    {
+                        "action": "Upgraded",
+                        "actionType": "Buy",
+                        "oldActionType": "Hold",
+                        "brokerageName": "Standpoint Research",
+                        "date": "2020-02-27",
+                        "oldTargetPrice": null,
+                        "targetPrice": null,
+                        "__typename": "BrokerageAction"
+                    },
+                    {
+                        "action": "Downgraded",
+                        "actionType": "Neutral",
+                        "oldActionType": "Buy",
+                        "brokerageName": "BofA/Merrill",
+                        "date": "2020-01-08",
+                        "oldTargetPrice": null,
+                        "targetPrice": null,
+                        "__typename": "BrokerageAction"
+                    },
+                    {
+                        "action": "Upgraded",
+                        "actionType": "Overweight",
+                        "oldActionType": "Equal Weight",
+                        "brokerageName": "Barclays",
+                        "date": "2019-12-19",
+                        "oldTargetPrice": null,
+                        "targetPrice": 53,
+                        "__typename": "BrokerageAction"
+                    },
+                    {
+                        "action": "Upgraded",
+                        "actionType": "Buy",
+                        "oldActionType": "Hold",
+                        "brokerageName": "Edward Jones",
+                        "date": "2019-12-12",
+                        "oldTargetPrice": null,
+                        "targetPrice": null,
+                        "__typename": "BrokerageAction"
+                    },
+                    {
+                        "action": "Reiterated",
+                        "actionType": "Buy",
+                        "oldActionType": null,
+                        "brokerageName": "BofA/Merrill",
+                        "date": "2019-11-14",
+                        "oldTargetPrice": 62,
+                        "targetPrice": 56,
+                        "__typename": "BrokerageAction"
+                    },
+                    {
+                        "action": "Resumed",
+                        "actionType": "Outperform",
+                        "oldActionType": null,
+                        "brokerageName": "RBC Capital Mkts",
+                        "date": "2019-11-13",
+                        "oldTargetPrice": null,
+                        "targetPrice": null,
+                        "__typename": "BrokerageAction"
+                    },
+                    {
+                        "action": "Downgraded",
+                        "actionType": "Neutral",
+                        "oldActionType": "Overweight",
+                        "brokerageName": "Piper Jaffray",
+                        "date": "2019-11-11",
+                        "oldTargetPrice": 55,
+                        "targetPrice": 51,
+                        "__typename": "BrokerageAction"
+                    },
+                    {
+                        "action": "Downgraded",
+                        "actionType": "Neutral",
+                        "oldActionType": "Buy",
+                        "brokerageName": "Goldman",
+                        "date": "2019-10-10",
+                        "oldTargetPrice": 56,
+                        "targetPrice": 48,
+                        "__typename": "BrokerageAction"
+                    },
+                    {
+                        "action": "Initiated",
+                        "actionType": "Outperform",
+                        "oldActionType": null,
+                        "brokerageName": "Evercore ISI",
+                        "date": "2019-09-11",
+                        "oldTargetPrice": null,
+                        "targetPrice": null,
+                        "__typename": "BrokerageAction"
+                    },
+                    {
+                        "action": "Reiterated",
+                        "actionType": "Outperform",
+                        "oldActionType": null,
+                        "brokerageName": "RBC Capital Mkts",
+                        "date": "2019-08-15",
+                        "oldTargetPrice": 64,
+                        "targetPrice": 53,
+                        "__typename": "BrokerageAction"
+                    },
+                    {
+                        "action": "Initiated",
+                        "actionType": "Equal Weight",
+                        "oldActionType": null,
+                        "brokerageName": "Barclays",
+                        "date": "2019-08-08",
+                        "oldTargetPrice": null,
+                        "targetPrice": 52,
+                        "__typename": "BrokerageAction"
+                    },
+                    {
+                        "action": "Downgraded",
+                        "actionType": "Mkt Perform",
+                        "oldActionType": "Outperform",
+                        "brokerageName": "William Blair",
+                        "date": "2019-06-12",
+                        "oldTargetPrice": null,
+                        "targetPrice": null,
+                        "__typename": "BrokerageAction"
+                    }
+                ],
+                "guidanceActions": [
+                    {
+                        "period": "Q3",
+                        "periodYear": 2021,
+                        "currency": "USD",
+                        "benzingaUpdated": 1612905724,
+                        "adjEpsMax": 0.82,
+                        "adjEpsMin": 0.8,
+                        "gaapEpsMax": null,
+                        "gaapEpsMin": null,
+                        "adjEpsPriorMax": null,
+                        "adjEpsPriorMin": null,
+                        "gaapEpsPriorMax": null,
+                        "gaapEpsPriorMin": null,
+                        "adjRevenueMax": null,
+                        "adjRevenueMin": null,
+                        "gaapRevenueMax": 12642000000,
+                        "gaapRevenueMin": 12402000000,
+                        "adjRevenuePriorMax": null,
+                        "adjRevenuePriorMin": null,
+                        "gaapRevenuePriorMax": null,
+                        "gaapRevenuePriorMin": null,
+                        "__typename": "Guidance"
+                    },
+                    {
+                        "period": "Q2",
+                        "periodYear": 2021,
+                        "currency": "USD",
+                        "benzingaUpdated": 1607959197,
+                        "adjEpsMax": 0.76,
+                        "adjEpsMin": 0.74,
+                        "gaapEpsMax": null,
+                        "gaapEpsMin": null,
+                        "adjEpsPriorMax": null,
+                        "adjEpsPriorMin": null,
+                        "gaapEpsPriorMax": null,
+                        "gaapEpsPriorMin": null,
+                        "adjRevenueMax": null,
+                        "adjRevenueMin": null,
+                        "gaapRevenueMax": 12005000000,
+                        "gaapRevenueMin": 11765000000,
+                        "adjRevenuePriorMax": null,
+                        "adjRevenuePriorMin": null,
+                        "gaapRevenuePriorMax": null,
+                        "gaapRevenuePriorMin": null,
+                        "__typename": "Guidance"
+                    }
+                ],
+                "__typename": "Symbol"
+            }
+        ]
+    }
+}

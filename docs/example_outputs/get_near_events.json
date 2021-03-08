@@ -1,0 +1,150 @@
+{
+    "data": {
+        "nearEvents": {
+            "pastEvents": [
+                {
+                    "EventId": "13670964",
+                    "name": "Cisco Systems Inc at Morgan Stanley Technology, Media and Telecom Conference (Virtual)",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1614808800000,
+                    "transcriptId": "C227D337-0E65-4E86-A5FE-82D3D9A6C3E2",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Expected",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13610183",
+                    "name": "Cisco Systems Inc at Goldman Sachs Technology and Internet Conference (Virtual)",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1612962000000,
+                    "transcriptId": "E102B176-EAC6-4C95-8DBE-89C2005A01A2",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13515691",
+                    "name": "Q2 2021 Cisco Systems Inc Earnings Call",
+                    "eventType": "EarningsCallsAndPresentations",
+                    "startDate": 1612906200000,
+                    "transcriptId": "53FF6466-A290-4E87-8E88-EE53F90CBFE1",
+                    "LiveDialInStartDate": 1612906200000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-888-848-6507",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13040038",
+                    "name": "Q2 2021 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1612904714000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                }
+            ],
+            "futureEvents": [
+                {
+                    "EventId": "13185162",
+                    "name": "Q3 2021 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1620730740000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13689900",
+                    "name": "Q3 2021 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1621438200000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13689902",
+                    "name": "Q3 2021 Cisco Systems Inc Earnings Call",
+                    "eventType": "EarningsCallsAndPresentations",
+                    "startDate": 1621456200000,
+                    "transcriptId": "219835D5-28B2-4A87-A258-F47A559207A2",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13329970",
+                    "name": "Q4 2021 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1628593140000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13507155",
+                    "name": "Q1 2022 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1636541940000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                }
+            ],
+            "__typename": "Events"
+        }
+    }
+}

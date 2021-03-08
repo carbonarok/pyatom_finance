@@ -1,0 +1,36 @@
+{
+    "data": {
+        "symbol": {
+            "id": "36b68fdc-0b19-4f3f-af23-18c4dabe5239",
+            "currentFY": 2021,
+            "currentFQ": 3,
+            "annualGuidance": [],
+            "quarterlyGuidance": [
+                {
+                    "id": "ba0af0db-c8e4-4d11-88c2-ba7eb264d127",
+                    "period": "Q3",
+                    "periodYear": 2021,
+                    "currency": "USD",
+                    "adjEpsMax": 0.82,
+                    "adjEpsMin": 0.8,
+                    "gaapEpsMax": null,
+                    "gaapEpsMin": null,
+                    "adjEpsPriorMax": null,
+                    "adjEpsPriorMin": null,
+                    "gaapEpsPriorMax": null,
+                    "gaapEpsPriorMin": null,
+                    "adjRevenueMax": null,
+                    "adjRevenueMin": null,
+                    "gaapRevenueMax": 12642000000,
+                    "gaapRevenueMin": 12402000000,
+                    "adjRevenuePriorMax": null,
+                    "adjRevenuePriorMin": null,
+                    "gaapRevenuePriorMax": null,
+                    "gaapRevenuePriorMin": null,
+                    "__typename": "Guidance"
+                }
+            ],
+            "__typename": "Symbol"
+        }
+    }
+}

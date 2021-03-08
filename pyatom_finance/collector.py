@@ -1,8 +1,8 @@
 """Collector class used for defining all data collection points to Atom Finance."""
 import jinja2
 
-from . import config
-from .requester import Requester
+from pyatom_finance import config
+from pyatom_finance.requester import Requester
 
 
 class Collector:

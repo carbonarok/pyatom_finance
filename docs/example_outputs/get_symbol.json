@@ -1,0 +1,40 @@
+{
+    "data": {
+        "symbol": {
+            "id": "36b68fdc-0b19-4f3f-af23-18c4dabe5239",
+            "symbol": "CSCO",
+            "name": "Cisco Systems Inc",
+            "description": "Cisco is the worldwide leader in technology that powers the Internet. Cisco inspires new possibilities by reimagining your applications, securing your data, transforming your infrastructure, and empowering your teams for a global and inclusive future.",
+            "CEO": "Charles Robbins",
+            "exchange": "NASDAQ/NGS (GLOBAL SELECT MARKET)",
+            "iexSector": "Manufacturing",
+            "iexIndustry": "Telephone Apparatus Manufacturing",
+            "sector": "Technology",
+            "industry": "Communications & Networking - NEC",
+            "industryCode": "5710201010",
+            "marketCap": 195257.581549,
+            "netDebt": -16041,
+            "ev": 179389,
+            "beta": 0.88776,
+            "borrowCost": 0.25,
+            "nextEarningsDate": 1620730740000,
+            "dividendPerShare": 1.43,
+            "averageVolume": 21693368,
+            "revenue": 48026,
+            "ebitda": 15381,
+            "ebit": 10145,
+            "eps": 2.38852,
+            "listingStatus": "Listed",
+            "trAssetCategory": "ORD",
+            "trSearchAllCategory": "Equities",
+            "metric": {
+                "id": "262cc732-cff3-4ed5-898f-10799b01e1a0",
+                "atomMarketCap": 204261.32324324327,
+                "price": 48.34,
+                "__typename": "Metric"
+            },
+            "kpiSnapshots": [],
+            "__typename": "Symbol"
+        }
+    }
+}

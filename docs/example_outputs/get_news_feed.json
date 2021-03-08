@@ -1,0 +1,1279 @@
+{
+    "data": {
+        "newsFeed": {
+            "news": [
+                {
+                    "id": "706c08b4-5675-4522-b56c-33ddd84f3440",
+                    "headlineText": "Closing Stock Market Summary",
+                    "revised": 1614979522000,
+                    "story": "<p> The S&P 500 advanced 2.0% on Friday in a resilient session that featured better-than-expected payrolls growth for February. The benchmark index was down as much as 1.0% intraday as investors sold into early strength, but others stepped in to buy the dip and propel the market to session highs by the close.    </p><p>The Nasdaq Composite gained 1.6% after being down 2.6% intraday, the Dow Jones Industrial Average gained 1.9% after being down 0.5% intraday, and the Russell 2000 gained 2.1% after being down 2.9% intraday.</p><p>The February employment report showcased nonfarm payrolls increase by 379,000 (Briefing.com consensus 200,000), which the market viewed as a bullish sign for future economic growth, as the labor market recovery appeared to pick up steam ahead of increased reopening/vaccination efforts. The unemployment rate was 6.2% (Briefing.com consensus 6.3%), versus 6.3% in January.</p><p>The 10-yr yield briefly matched last week's high of 1.61% following the data, before settling unchanged at 1.55%. Interestingly, the rise in yields didn't deter risk sentiment as every sector in the S&P 500 started the session in positive territory. Instead, the negative price action that followed fueled concerns that the recent correction in the heavily-weighted growth stocks wasn't over. </p><p>Nearly every sector turned negative, with the exceptions being energy (+3.9%) and consumer staples (+2.2%). Shares of <strong>Tesla </strong>(<strong>TSLA </strong>597.95, -23.49, -3.8%) were down more than 13.0% at one point. Selling abated around the close of European markets at 11:30 a.m. ET amid a sense that selling had gotten overdone on a short-term basis. </p><p>Energy stocks built on their outperformance, as oil prices ($66.09, +2.26, +3.5%) rallied above $66 per barrel, and every other sector caught the wave of buying interest. The consumer discretionary sector (+0.7%) was the only sector that increased less than 1.0% due to Tesla's decline.  </p><p>Note, while the S&P 500 never went below yesterday's intraday low, the Nasdaq and Russell 2000 did. The S&P 500 managed to close back above its 50-day moving average (3822) after closing below it on Thursday.</p><p>Shares of <strong>Cisco </strong>(<strong>CSCO </strong>46.25, +1.69, +3.8%) and <strong>Oracle </strong>(<strong>ORCL </strong>69.93, +4.32, +6.6%) outperformed following a pair of analyst upgrades. JP Morgan upgraded CSCO to Overweight from Neutral. Barclays upgraded ORCL to Overweight from Equal Weight.  </p><p>The 2-yr yield increased one basis point to 0.15%. The U.S. Dollar Index advanced 0.4% to 91.96. </p><p>Reviewing Friday's economic data:</p><ul><li>The February Employment Situation Report was much better than expected on the payrolls front. The payrolls increase is the highlight of the report and is apt to be the lead headline when it comes to talking about the report; however, there is a soft underbelly to the report that should not go unnoticed. The labor force participation rate was unchanged at 61.4% (down from 63.3% a year ago), the U-6 unemployment rate is still high at 11.1%, and persons unemployed for 27 weeks or more accounted for 41.5% of the unemployed versus 39.5% in January. The pace of hiring might have picked up in February, yet the travails of the long-term unemployed did as well.<ul><li>The key takeaway from the report is that it will be seen as a sign of even better things to come for the labor market, which bodes well for growth prospects. The increase in nonfarm payrolls was the strongest since October and the best pace for February in more than 20 years, which is encouraging in that it came in front of more states seemingly destined to relax Covid restrictions in coming months as vaccination rates improve.</li></ul></li><li>The January trade deficit widened to -$68.2 billion (Briefing.com consensus -$67.5 billion) from a downwardly revised -$67.0 billion (from -$66.6 billion) in December. The widening in the deficit was a byproduct of exports increasing less than imports.<ul><li>The key takeaway from the report is that trade activity will be imputed as a drag on Q1 GDP growth for now as the real trade deficit in January was 2.4% more than the fourth quarter average.</li></ul></li><li>Consumer credit decreased by $1.3 bln in January after increasing a downwardly revised $8.8 bln (from $9.7 bln) in December.<ul><li>The key takeaway from the report is that revolving credit decreased for the tenth time over the last 11 months dating back to February, which preceded the initial pandemic lockdown period taking hold in the U.S.</li></ul></li></ul><p>Looking ahead, investors will receive Wholesale Inventories for January on Monday.</p><ul><li>Russell 2000 +11.0% YTD</li><li>Dow Jones Industrial Average +2.9% YTD</li><li>S&P 500 +2.3% YTD</li><li>Nasdaq Composite +0.3% YTD</li></ul>",
+                    "linkableCompanyRICs": [
+                        "ORCL",
+                        "CSCO",
+                        "TSLA"
+                    ],
+                    "linkableSectors": [],
+                    "type": "InPlayBIPStory",
+                    "saved": false,
+                    "inPlayBIPStory": {
+                        "categories": [],
+                        "__typename": "InPlayBIPStory"
+                    },
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "d3a66fb8-8abe-4dfe-b496-a7acd73259ca",
+                    "headlineText": "Top-Five for the Dow Jones Industrial Average",
+                    "revised": 1614967966000,
+                    "story": "<ul><li>       Cisco (<strong>CSCO</strong>, 46.385 +1.83,<span style=\"color: rgb(34, 136, 34);\"><strong> +4.10% </strong></span>): Trading back above 20-day Moving Average (45.79) after JP Morgan upgraded to Overweight from Neutral earlier </li><li> Chevron (<strong>CVX</strong>, 107.86 +3.36,<span style=\"color: rgb(34, 136, 34);\"><strong> +3.22% </strong></span>): Ending the week much like how it started as shares have closed in the green every day this week; the Co announced plans to acquire Noble Midstream (NBLX) earlier  </li><li> Procter & Gamble (<strong>PG</strong>, 125.45 +3.30,<span style=\"color: rgb(34, 136, 34);\"><strong> +2.70% </strong></span>): Trying to regain 20-day Moving Average (126.54) </li><li> Goldman Sachs (<strong>GS</strong>, 321.88 -7.41,<span style=\" color: rgb(255,0,0);\"><strong> -2.25% </strong></span>): Continuing yesterday's move towards 20-day Moving Average (316.3); shares will look to close above 320 to remain in the green for the week </li><li> Boeing (<strong>BA</strong>, 218.31 -6.40,<span style=\" color: rgb(255,0,0);\"><strong> -2.85% </strong></span>): Pulling back to 20-day Moving Average (217.05) to end week again </li></ul>",
+                    "linkableCompanyRICs": [
+                        "NBLX",
+                        "GS PR D",
+                        "GS PR A",
+                        "GS PR C",
+                        "CVX",
+                        "DIA",
+                        "PG",
+                        "GS PR J",
+                        "BA",
+                        "GS PR K",
+                        "CSCO",
+                        "GS",
+                        "GS PR N",
+                        "GS PR B",
+                        "GSC"
+                    ],
+                    "linkableSectors": [],
+                    "type": "InPlayBIPStory",
+                    "saved": false,
+                    "inPlayBIPStory": {
+                        "categories": [
+                            "ETF"
+                        ],
+                        "__typename": "InPlayBIPStory"
+                    },
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "04f76220-bb7f-470a-b329-a9301294f19a",
+                    "headlineText": "Cisco Appoints Marianna Tessel To Its Board Of Directors",
+                    "revised": 1614953390000,
+                    "story": "<br/><br/>March 5 (Reuters) - Cisco Systems Inc : <br/><br/>\u2022 CISCO APPOINTS MARIANNA TESSEL TO ITS BOARD OF DIRECTORS <br/><br/>\u2022 CISCO - CISCO BOARD SIZE INCREASED TO 11  Source text for Eikon:  Further company coverage:    ((Reuters.Briefs@thomsonreuters.com;))",
+                    "linkableCompanyRICs": [
+                        "CSCO"
+                    ],
+                    "linkableSectors": [
+                        "COMS",
+                        "TECH",
+                        "TEEQ"
+                    ],
+                    "type": "ReutersStory",
+                    "saved": false,
+                    "inPlayBIPStory": null,
+                    "isAtomPlus": false,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "fcaf1bad-daac-479f-944a-c6cbb161636d",
+                    "headlineText": "Cisco Systems shares are trading higher after JP Morgan upgraded the stock from Neutral to Overweight and announced a price target of $55 per share.",
+                    "revised": 1614950910000,
+                    "story": "",
+                    "linkableCompanyRICs": [
+                        "CSCO"
+                    ],
+                    "linkableSectors": [],
+                    "type": "WiimStory",
+                    "saved": false,
+                    "inPlayBIPStory": null,
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "93b8ab5b-12c0-43cb-9004-9f756acedf22",
+                    "headlineText": "Research Calls II",
+                    "revised": 1614949659000,
+                    "story": "<ul><li><span style=\"color: rgb(34, 136, 34);\"><strong>Upgrades:</strong></span><ul><li>Bombardier (BDRBF) upgraded to Outperform from Market Perform at BMO Capital Markets</li><li>Cisco (CSCO) upgraded to Overweight from Neutral at JP Morgan; tgt raised to $55</li><li>HarborOne Bancorp (HONE) upgraded to Buy from Neutral at DA Davidson; tgt $15</li><li>Paycom Software (PAYC) upgraded to Buy from Hold at Jefferies; tgt $470</li><li>SBA Comm (SBAC) upgraded to Strong Buy from Outperform at Raymond James; tgt $309</li><li>Western Digital (WDC) upgraded to Buy from Neutral at Goldman; tgt raised to $85</li><li>Zscaler (ZS) upgraded to Buy from Hold at Berenberg; tgt raised to $235</li></ul></li><li><span style=\"color: rgb(255, 0, 0);\"><strong>Downgrades:</strong></span><ul><li>Caterpillar (CAT) downgraded to Neutral from Outperform at Daiwa Securities; tgt raised to $217</li><li>Comerica (CMA) downgraded to Neutral from Buy at B. Riley Securities</li><li>Senseonics (SENS) downgraded to Underperform from Mkt Perform at Raymond James</li><li>Smith & Wesson Brands (SWBI) downgraded to Hold from Buy at Craig Hallum; tgt $17</li></ul></li><li><span style=\"color: rgb(12, 12, 12);\"><strong>Others:</strong></span><ul><li>Interactive Brokers (IBKR) initiated with a Buy at Jefferies; tgt $89</li><li>Milestone Pharmaceuticals (MIST) initiated with a Buy at H.C. Wainwright; tgt $20</li></ul></li></ul>",
+                    "linkableCompanyRICs": [
+                        "MIST",
+                        "ZS",
+                        "PAYC",
+                        "SBAC",
+                        "CAT",
+                        "SWBI",
+                        "CMA",
+                        "SENS",
+                        "HONE",
+                        "IBKR",
+                        "CSCO",
+                        "WDC",
+                        "SWBIV"
+                    ],
+                    "linkableSectors": [],
+                    "type": "InPlayBIPStory",
+                    "saved": false,
+                    "inPlayBIPStory": {
+                        "categories": [
+                            "BrokerResearch"
+                        ],
+                        "__typename": "InPlayBIPStory"
+                    },
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "c2e6411a-ae61-4dc2-9375-5a6f4199b15d",
+                    "headlineText": "Canada - March 3",
+                    "revised": 1614769759000,
+                    "story": "<br/><br/>March 3 (Reuters) - The following are the top stories from selected Canadian newspapers. Reuters has not verified these stories and does not vouch for their accuracy. <br/><br/> <br/><br/> <br/><br/>THE GLOBE AND MAIL <br/><br/>\u2022 Sky Regional Airlines Inc will shut down its commercial flight operations on March 31 after losing its Air Canada Express contract, becoming the first mid-sized Canadian airline to fall victim to the pandemic. <br/><br/> <br/><br/>\u2022 Canada Mortgage and Housing Corp to get new chief executive officer as Evan Siddall steps down next month. <br/><br/> <br/><br/>\u2022 Super Channel has asked Alberta's superior court to block the sale of digital set-top boxes that it alleges are being used to steal its programming.     <br/><br/>NATIONAL POST <br/><br/>\u2022 The federal government in recent years has awarded internal contracts to technology company Cisco Systems  with high frequency, part of what some observers call a pattern of dependency by Ottawa on a single network provider that has all but shut out competing bids. <br/><br/> <br/><br/>   (Compiled by Bengaluru newsroom)  ((globalnewsmonitoring@thomsonreuters.com))",
+                    "linkableCompanyRICs": [
+                        "CSCO"
+                    ],
+                    "linkableSectors": [
+                        "INDG",
+                        "TRAN",
+                        "COMS",
+                        "INDS",
+                        "BSVC",
+                        "FINS",
+                        "TECH",
+                        "BISV",
+                        "TEEQ",
+                        "AIRL",
+                        "AERO"
+                    ],
+                    "type": "ReutersStory",
+                    "saved": false,
+                    "inPlayBIPStory": null,
+                    "isAtomPlus": false,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "a57c1767-589f-40a0-8109-45622a575716",
+                    "headlineText": "Sector Briefing: Technology",
+                    "revised": 1614699724000,
+                    "story": "<p>The top-weighted technology sector (-1.1%) started today's session behind the remaining ten groups after a strong showing yesterday. The opening loss has narrowed the group's week-to-date gain to 2.0%. </p><p>Key factors driving today's performance include: </p><ul><li>Soft showing from the largest components of the sector. <strong>Apple</strong> (<strong>AAPL </strong>126.36, -1.43, -1.1%), <strong>Microsoft</strong> (<strong>MSFT </strong>234.15, -2.79, -1.2%), <strong>Visa</strong> (<strong>V</strong> 215.32, -1.31, -0.6%), and <strong>NVIDIA</strong> (<strong>NVDA </strong>550.07, -3.60, -0.7%) stumbled out of the gate, weighing on the broader sector. </li><li>Broad-based weakness among high-beta chipmakers. The PHLX Semiconductor Index is down 1.4%, trimming its week-to-date gain to 1.8%. </li></ul><p> <strong>Notable movers:</strong> </p><ul><li><strong>Cadence</strong> <strong>Design</strong> (<strong>CDNS </strong>141.98, -5.46, -3.7%): weakest performer in the sector, surrendering yesterday's gain after finding resistance near its record high.</li><li><strong>KLA</strong> <strong>Corporation</strong> (<strong>KLAC </strong>315.88, -10.11, -3.1%): surrendering yesterday's gain. </li><li><strong>Teradyne</strong> (<strong>TER </strong>130.66, -3.34, -2.4%): falling toward its 50-day moving average (129.03). </li><li><strong>Citrix</strong> <strong>Systems</strong> (<strong>CTXS </strong>135.37, -3.28, -2.4%): falling back below its 200-day moving average (135.85). </li><li><strong>Broadcom</strong> (<strong>AVGO </strong>482.43, -7.15, -1.5%): slipping toward yesterday's low after Cowen raised its target for the stock to $470 from $415.</li><li><strong>Applied</strong> <strong>Materials</strong> (<strong>AMAT </strong>120.65, -1.60, -1.3%): approaching yesterday's low. </li><li><strong>PayPal</strong> (<strong>PYPL </strong>270.16, -3.47, -1.3%): dipping from a one-week high.</li><li><strong>Microsoft</strong> (<strong>MSFT </strong>234.15, -2.79, -1.2%): slipping toward yesterday's low.</li><li><strong>Apple</strong> (<strong>AAPL </strong>126.36, -1.43, -1.1%): backtracking from a one-week high. </li><li><strong>Cisco</strong> (<strong>CSCO </strong>45.56, -0.36, -0.8%): slipping back below its 50-day moving average (45.57).</li><li><strong>Fortinet</strong> (<strong>FTNT </strong>172.00, -1.26, -0.7%): touched a fresh record high before turning negative. </li><li><strong>NVIDIA</strong> (<strong>NVDA </strong>550.07, -3.60, -0.7%): slipping back to its 50-day moving average (546.07). </li><li><strong>FleetCor</strong> (<strong>FLT </strong>285.29, +2.79, +1.0%): best performer in the sector.</li></ul>",
+                    "linkableCompanyRICs": [
+                        "AAPL",
+                        "FLT",
+                        "AVGOP",
+                        "AVGO",
+                        "FTNT",
+                        "NVDA",
+                        "XLK",
+                        "PYPL",
+                        "CSCO",
+                        "CTXS",
+                        "KLAC",
+                        "MSFT",
+                        "TER",
+                        "CDNS",
+                        "V",
+                        "AMAT"
+                    ],
+                    "linkableSectors": [],
+                    "type": "InPlayBIPStory",
+                    "saved": false,
+                    "inPlayBIPStory": {
+                        "categories": [
+                            "ETF"
+                        ],
+                        "__typename": "InPlayBIPStory"
+                    },
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "b5bd87a5-0025-4c25-8095-5551f73e383b",
+                    "headlineText": "Cisco - Starting This Month, Webex Customers Can Preview Real-Time Translations From English Into 100+ Languages",
+                    "revised": 1614694396000,
+                    "story": "<br/><br/>March 2 (Reuters) - Cisco Systems Inc : <br/><br/>\u2022 CISCO - STARTING THIS MONTH, WEBEX CUSTOMERS CAN PREVIEW REAL-TIME TRANSLATIONS FROM ENGLISH INTO 100+ LANGUAGES  Source text for Eikon:  Further company coverage:    ((Reuters.Briefs@thomsonreuters.com;))",
+                    "linkableCompanyRICs": [
+                        "CSCO"
+                    ],
+                    "linkableSectors": [
+                        "COMS",
+                        "TECH",
+                        "TEEQ"
+                    ],
+                    "type": "ReutersStory",
+                    "saved": false,
+                    "inPlayBIPStory": null,
+                    "isAtomPlus": false,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "c09d4b06-3294-415f-94b1-25e6a2e4c457",
+                    "headlineText": "Shares of several technology companies are trading higher as yields pull back, which has helped lift growth sectors. Stocks across sectors also gain amid COVID-19 vaccine optimism and stimulus progress.",
+                    "revised": 1614625470000,
+                    "story": "",
+                    "linkableCompanyRICs": [
+                        "NTAP",
+                        "BILL",
+                        "PAGS",
+                        "GDDY",
+                        "KC",
+                        "MCHP",
+                        "CTXS",
+                        "GLW",
+                        "INFY",
+                        "ADSK",
+                        "WIT",
+                        "AMAT",
+                        "ORCL",
+                        "ENPH",
+                        "PD",
+                        "APPN",
+                        "SPLK",
+                        "SQ",
+                        "SWKS",
+                        "WDC",
+                        "TEAM",
+                        "NOW",
+                        "TRMB",
+                        "TXN",
+                        "DOCU",
+                        "DT",
+                        "HPQ",
+                        "INTU",
+                        "MU",
+                        "STNE",
+                        "TER",
+                        "CDNS",
+                        "ACN",
+                        "CSCO",
+                        "LRCX",
+                        "KLAC",
+                        "PDS",
+                        "BAH"
+                    ],
+                    "linkableSectors": [],
+                    "type": "WiimStory",
+                    "saved": false,
+                    "inPlayBIPStory": null,
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "bed21192-7916-4eca-88ea-c3cc02f56262",
+                    "headlineText": "Acacia Communications announces completion of acquisition by Cisco (CSCO) (halted)",
+                    "revised": 1614608506000,
+                    "story": "Cisco has agreed to acquire Acacia for $115.00/share in cash, or approx. $4.5 bln on a fully diluted basis, net of cash and marketable securities. As a result of the transaction, Acacia is no longer a publicly traded company. Acacia has notified NASDAQ of the completion of the acquisition and has requested that NASDAQ file a notification of delisting with the SEC on Acacia's behalf. ",
+                    "linkableCompanyRICs": [
+                        "CSCO"
+                    ],
+                    "linkableSectors": [],
+                    "type": "InPlayBIPStory",
+                    "saved": false,
+                    "inPlayBIPStory": {
+                        "categories": [
+                            "M&A"
+                        ],
+                        "__typename": "InPlayBIPStory"
+                    },
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "59e23fea-c135-43d3-b3f3-09128ca8876d",
+                    "headlineText": "Cisco Systems Says South Africa Approves IMImobile Offer",
+                    "revised": 1613500229000,
+                    "story": "<br/><br/>Feb 16 (Reuters) - Cisco Systems: <br/><br/>\u2022 CISCO SYSTEMS, INC. IMIMOBILE PLC  - UPDATE ON ANTITRUST CONDITIONS <br/><br/>\u2022 CISCO SYSTEMS - IMIMOBILE OFFER BEEN APPROVED BY SOUTH AFRICAN COMPETITION AUTHORITIES  Source text for Eikon:  Further company coverage:    ((Reuters.Briefs@thomsonreuters.com;))",
+                    "linkableCompanyRICs": [
+                        "CSCO"
+                    ],
+                    "linkableSectors": [
+                        "SOFW",
+                        "COMS",
+                        "SWIT",
+                        "TECH",
+                        "TEEQ"
+                    ],
+                    "type": "ReutersStory",
+                    "saved": false,
+                    "inPlayBIPStory": null,
+                    "isAtomPlus": false,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "4104b82a-d293-4391-a1ab-bd7cdbc26c90",
+                    "headlineText": "Italy - Factors to watch on Feb. 16",
+                    "revised": 1613451600000,
+                    "story": "The following factors could affect Italian markets on Tuesday. <br/><br/>Reuters has not verified the newspaper reports, and cannot vouch for their accuracy. New items are marked with (\u2022). <br/><br/> <br/><br/>For a complete list of diary events in Italy please click on . <br/><br/> <br/><br/>GENERAL <br/><br/>Italy reported 258 coronavirus-related deaths on Monday against 221 the day before, the health ministry said, while the daily tally of new infections fell to 7,351 from 11,068 the day before. <br/><br/> <br/><br/>ECONOMY <br/><br/>ISTAT releases December foreign trade data (0900 GMT). <br/><br/> <br/><br/>COMPANIES <br/><br/>CREVAL  <br/><br/>Italy has given a green light to the takeover bid Credit Agricole Italia plans to make for the small rival, the French bank's Italian arm said on Monday, after two sources had anticipated the news to Reuters. <br/><br/>DWS Investments cut its stake in the Italian lender to 2.976% from 5.461%, while Petrus Adivsers held a 3.015% stake, according to a regulatory filing. <br/><br/> <br/><br/>STELLANTIS  <br/><br/>The carmaker has extended until Tuesday a production freeze at its Melfi plant in southern Italy, citing persistent shortages of semiconductors. <br/><br/> <br/><br/>MEDIASET  <br/><br/>The Italian broadcaster does not intend to acquire additional voting rights in ProSiebenSat.1 Media in the next 12 months or to exercise influence on the appointment of management, according to a regulatory announcement on Monday. <br/><br/> <br/><br/>A2A  <br/><br/>An administrative court has cancelled a decision of Seregno city Council which paved the way to the merger between Italy's largest regional utility and smaller local rival AEB, three different rulings seen by Reuters said on Monday. <br/><br/> <br/><br/>SAIPEM  <br/><br/>Marathon Asset Management held a 5.102% stake in the Italian energy services group as of Feb. 9, a regulatory filing said. <br/><br/> <br/><br/>POSTE ITALIANE  <br/><br/>Board meeting on preliminary FY results, press release on Feb. 17. <br/><br/> <br/><br/> <br/><br/>DIARY <br/><br/>Rome, Hoist Finance Spa  CEO Clemente Reale speaks before Banking Committee on the business models of operators working in NPL and UTP markets (1215 GMT). <br/><br/>Milan, celebration for the first year of the Cybersecurity Co-Innovation Center with Italy's cybersecurity department Vice Director General Roberto Baldoni, H-Farm  Chairman Riccardo Donadon, Cisco  Chairman and CEO Chuck Robbins (1500 GMT). <br/><br/> <br/><br/> <br/><br/>((Milan newsroom, +39 02 6612 9507, fax +39 02 801149,  milan.newsroom@news.reuters.com)) <br/><br/> <br/><br/>For Italian market data and news, click on codes in  brackets:  <br/><br/>20 biggest gainers (in percentage)............  <br/><br/>20 biggest losers (in percentage).............  <br/><br/>FTSE IT allshare index  <br/><br/>FTSE Mib index........  <br/><br/>FTSE Allstars index...  <br/><br/>FTSE Mid Cap index....  <br/><br/>Block trades..........  <br/><br/>Stories on Italy......  <br/><br/> <br/><br/>For pan-European market data and news, click on codes in   brackets:   European Equities speed guide...................    FTSEurofirst 300 index..............................    DJ STOXX index......................................    Top 10 STOXX sectors...........................    Top 10 EUROSTOXX sectors......................    Top 10 Eurofirst 300 sectors...................    Top 25 European pct gainers.......................    Top 25 European pct losers........................      Main stock markets:   Dow Jones...............   Wall Street report .....    Nikkei 225.............   Tokyo report............    FTSE 100...............   London report...........    Xetra DAX.............   Frankfurt market stories    CAC-40.................   Paris market stories...    World Indices.....................................    Reuters survey of world bourse outlook.........    Western European IPO diary..........................    European Asset Allocation........................    Reuters News at a Glance: Equities...............    Main currency report:...............................  ",
+                    "linkableCompanyRICs": [
+                        "STLA",
+                        "MS",
+                        "CSCO",
+                        "PST"
+                    ],
+                    "linkableSectors": [
+                        "CARM",
+                        "TRAN",
+                        "COMS",
+                        "FRGT",
+                        "BSVC",
+                        "UTIL",
+                        "AUTO",
+                        "TECH",
+                        "ENER",
+                        "ELEU",
+                        "INVM",
+                        "MDIA",
+                        "INDS",
+                        "CCOS",
+                        "FINS",
+                        "BISV",
+                        "CYCS",
+                        "OILQ",
+                        "TEEQ",
+                        "BCST"
+                    ],
+                    "type": "ReutersStory",
+                    "saved": false,
+                    "inPlayBIPStory": null,
+                    "isAtomPlus": false,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "ed2ffbdd-9a6f-42fc-8ad1-adc0d98beba1",
+                    "headlineText": "Top-Five for the Dow Jones Industrial Average",
+                    "revised": 1613152198000,
+                    "story": "<ul><li>       Intel (<strong>INTC</strong>, 61.76 +1.10 ,<span style=\"color: rgb(34, 136, 34);\"><strong> +1.81% </strong></span>): Continuing last week's rally off its 20-day Moving Average (54.45); shares are up more than 10% in February </li><li> American Express (<strong>AXP</strong>, 130.04 +1.73 ,<span style=\"color: rgb(34, 136, 34);\"><strong> +1.35% </strong></span>): Trying to close above 130 again after failing to do so on January 20 </li><li> JP Morgan (<strong>JPM</strong>, 140.61 +1.34 ,<span style=\"color: rgb(34, 136, 34);\"><strong> +0.96% </strong></span>): Trading close to all-time highs (142.75 on January 14)  </li><li> Cisco (<strong>CSCO</strong>, 47.10 -0.48 ,<span style=\" color: rgb(255,0,0);\"><strong> -1.01% </strong></span>): Pulling back to 20-day Moving Average (46.46)  </li><li> Nike (<strong>NKE</strong>, 142.06 -1.48 ,<span style=\" color: rgb(255,0,0);\"><strong> -1.03% </strong></span>): Falling back to 20-day Moving average (140.60) as shares are about flat for the year </li></ul>",
+                    "linkableCompanyRICs": [
+                        "INTC",
+                        "JPM",
+                        "JPM PR J",
+                        "JPM PR C",
+                        "AXP",
+                        "CSCO",
+                        "JPM PR A",
+                        "DIA",
+                        "JPM PR G",
+                        "JPM PR E",
+                        "JPM PR F",
+                        "NKE",
+                        "JPM PR H",
+                        "JPM PR D",
+                        "AMJ"
+                    ],
+                    "linkableSectors": [],
+                    "type": "InPlayBIPStory",
+                    "saved": false,
+                    "inPlayBIPStory": {
+                        "categories": [
+                            "ETF"
+                        ],
+                        "__typename": "InPlayBIPStory"
+                    },
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "706df198-94d2-4271-ae42-e82b2e86d86c",
+                    "headlineText": "Cisco Systems shares are trading higher after DZ Bank upgraded the stock from Hold and Buy and announced a price target from $52 per share.",
+                    "revised": 1613060027000,
+                    "story": "",
+                    "linkableCompanyRICs": [
+                        "CSCO"
+                    ],
+                    "linkableSectors": [],
+                    "type": "WiimStory",
+                    "saved": false,
+                    "inPlayBIPStory": null,
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "12cbc3ec-a630-4d9b-8605-118d2a52134e",
+                    "headlineText": "Research Calls II",
+                    "revised": 1613046937000,
+                    "story": "<ul><li><span style=\"color: rgb(34, 136, 34);\"><strong>Upgrades:</strong></span><ul><li>Banc of California (BANC) upgraded to Buy from Neutral at Janney; tgt $22</li><li>BellRing Brands (BRBR) upgraded to Overweight from Equal Weight at Consumer Edge Research; tgt $31</li><li>Cisco (CSCO) upgraded to Buy from Hold at DZ Bank; tgt $52</li><li>Criteo (CRTO) upgraded to Outperform from Neutral at Macquarie; tgt $40</li><li>DuPont (DD) upgraded to Hold from Sell at DZ Bank; tgt $77</li><li>Willis Towers Watson (WLTW) upgraded to Strong Buy from Outperform at Raymond James</li><li>Zillow (ZG) upgraded to Buy from Neutral at Citigroup; tgt raised to $250</li></ul></li><li><span style=\"color: rgb(255, 0, 0);\"><strong>Downgrades:</strong></span><ul><li>Cameco (CCJ) downgraded to Neutral from Buy at BofA Securities</li><li>Coherent (COHR) downgraded to Hold from Buy at The Benchmark Company</li><li>Spirit Airlines (SAVE) downgraded to Neutral from Buy at Seaport Global Securities</li><li>TreeHouse Foods (THS) downgraded to Hold from Buy at Stifel; tgt $50</li></ul></li><li><span style=\"color: rgb(12, 12, 12);\"><strong>Others:</strong></span><ul><li>PLBY Group (PLBY) initiated with a Buy at ROTH Capital; tgt $18</li></ul></li></ul>",
+                    "linkableCompanyRICs": [
+                        "SAVE",
+                        "THS",
+                        "COHR",
+                        "CRTO",
+                        "CSCO",
+                        "BANC",
+                        "BRBR",
+                        "Z",
+                        "CCJ",
+                        "DD",
+                        "WLTW",
+                        "ZG",
+                        "BANC PR E",
+                        "BANC PR D"
+                    ],
+                    "linkableSectors": [],
+                    "type": "InPlayBIPStory",
+                    "saved": false,
+                    "inPlayBIPStory": {
+                        "categories": [
+                            "BrokerResearch"
+                        ],
+                        "__typename": "InPlayBIPStory"
+                    },
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "b3a70ec5-32e0-43c8-8613-41027f6722dc",
+                    "headlineText": "Closing Stock Market Summary",
+                    "revised": 1612992019000,
+                    "story": "<p> The Dow Jones Industrial Average (+0.2%) eked out a closing record high on Wednesday, while the S&P 500 (-0.03%), Nasdaq Composite (-0.3%), and Russell 2000 (-0.7%) closed lower after setting intraday record highs early in the session. </p><p>The market's highs came shortly after the open, as investors remained confident in the growth prospects of the economy, but the market quickly descended into negative territory amid a sense that stock prices had increased too much, too fast. The S&P 500 went from a 0.5% intraday gain to a 0.7% intraday decline in about 45 minutes. </p><p>Price action stabilized, and the benchmark index wavered around its flat line for the rest of the session. The energy (+1.8%), communication services (+0.6%), and real estate (+0.6%) sectors advanced the most today, while the consumer discretionary sector (-0.9%) underperformed amid profit-taking weakness in <strong>Tesla </strong>(<strong>TSLA </strong>804.82, -44.64, -5.3%). </p><p>In the afternoon, Fed Chair Powell reiterated in a speech that interest rates will remain near zero until the Fed achieves its dual mandate of maximum employment and a 2.0%+ inflation rate over time. Mr. Powell added that the central bank will maintain its $120 billion in asset purchases per month.</p><p>On a related note, total CPI was up 0.3% m/m in January (Briefing.com consensus 0.4%), and Core CPI, which excludes food and energy, was unchanged (Briefing.com consensus 0.2%). Core CPI decelerated to 1.4% from 1.6% in December. While the CPI data isn't the Fed's preferred inflation gauge, it still signaled muted inflation pressure for consumers. </p><p>The 10-yr Treasury note yield decreased two basis points to 1.13% after trading at 1.17% prior to the data. The 2-yr yield decreased two basis points to 0.10%. The U.S. Dollar Index finished little changed at 90.43. WTI crude futures increased  0.6%, or $0.36, to $58.71/bbl. </p><p>Separately,<strong> Coca-Cola </strong>(<strong>KO </strong>49.60, -0.10, -0.2%), <strong>Cisco</strong> (<strong>CSCO </strong>47.24, -1.26, -2.6%), and <strong>General Motors</strong> (<strong>GM </strong>54.88, -1.18, -2.1%) closed lower despite beating earnings estimates, while <strong>Twitter </strong>(<strong>TWTR</strong> 67.77, +7.90, +13.2%) and <strong>Lyft </strong>(<strong>LYFT </strong>56.21, +2.57, +4.8%) pleased investors with their results and commentary. </p><p>Reviewing Wednesday's economic data:</p><ul><li>Total CPI for January was up 0.3% m/m (Briefing.com consensus 0.4%) following a downwardly revised 0.2% increase (from 0.4%) in December. Core CPI, which excludes food and energy, was unchanged (Briefing.com consensus 0.2%) after also being revised to unchanged (from 0.1%) in December. On a year-over-year basis, total CPI held steady at 1.4%, yet core CPI decelerated to 1.4% from 1.6% in December.<ul><li>The key takeaway from the report is that it shows all is still mostly quiet on the inflation front as far as the Fed is concerned, which implies to the market that it can continue to count on the Fed not to run interference with its rally effort by raising rates or tapering its bond purchases prematurely.</li></ul></li><li>Wholesale inventories increased 0.3 m/m in December (Briefing.com consensus +0.1%) following a revised 0.1% increase in November (from 0.0%). </li><li>The weekly MBA Mortgage Applications Index decreased 4.1% following an 8.1% increase in the prior week.</li></ul><p>Looking ahead, investors will receive the weekly Initial and Continuing Claims report on Thursday. </p><ul><li>Russell 2000 +15.6% YTD</li><li>Nasdaq Composite +8.4% YTD</li><li>S&P 500 +4.1% YTD</li><li>Dow Jones Industrial Average +2.7% YTD</li></ul>",
+                    "linkableCompanyRICs": [
+                        "LYFT",
+                        "CSCO",
+                        "KO",
+                        "TSLA",
+                        "TWTR"
+                    ],
+                    "linkableSectors": [],
+                    "type": "InPlayBIPStory",
+                    "saved": false,
+                    "inPlayBIPStory": {
+                        "categories": [],
+                        "__typename": "InPlayBIPStory"
+                    },
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "afabcbed-651d-42d5-9a42-9b1a8cdbc037",
+                    "headlineText": "Top-Five for the Dow Jones Industrial Average",
+                    "revised": 1612980618000,
+                    "story": "<ul><li>       Dow (<strong>DOW</strong>, 58.31 +1.71,<span style=\"color: rgb(34, 136, 34);\"><strong> +3.02% </strong></span>): Maintaining the 20-day Moving Average (56.28) for fifth straight session; shares are up ~5% for the year </li><li> Walgreens (<strong>WBA</strong>, 50.85 +0.85,<span style=\"color: rgb(34, 136, 34);\"><strong> +1.70% </strong></span>): Looking to close in the green for sixth straight session </li><li> American Express (<strong>AXP</strong>, 128.24 +1.56,<span style=\"color: rgb(34, 136, 34);\"><strong> +1.23% </strong></span>): Flirting with new 11-month highs </li><li> Walmart (<strong>WMT</strong>, 144.25 -1.58,<span style=\" color: rgb(255,0,0);\"><strong> -1.08% </strong></span>): Pulling back to 20-day Moving Average (144.18) after news that its acquisition of Tiktok has been postponed amid White House review </li><li> Cisco (<strong>CSCO</strong>, 46.59 -1.91,<span style=\" color: rgb(255,0,0);\"><strong> -3.94% </strong></span>): Falling to 20-day Moving Average (46.23) despite beating Q2 estimates and providing upside Q3 revs guidance yesterday </li></ul>",
+                    "linkableCompanyRICs": [
+                        "WMT",
+                        "DOW",
+                        "CSCO",
+                        "AXP",
+                        "WBA",
+                        "DIA"
+                    ],
+                    "linkableSectors": [],
+                    "type": "InPlayBIPStory",
+                    "saved": false,
+                    "inPlayBIPStory": {
+                        "categories": [
+                            "ETF"
+                        ],
+                        "__typename": "InPlayBIPStory"
+                    },
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "2b869be0-ae97-49f6-8f2d-693933bc9356",
+                    "headlineText": "Market Briefing: Market rolls on, then rolls over",
+                    "revised": 1612973114000,
+                    "story": "<p>The stock market got off to a good start, but the good times didn't keep rolling. Rather, the good returns rolled over on a pickup in selling interest that didn't have a discernible catalyst.</p><p>The latter understanding was the notable driver as it prompted some broader selling interest on the basis that this is a sign of a market that recognizes it has come a long way in a short time and will find further gains tougher to come by in the near term.</p><p>The information technology sector (-0.5%) and some mega-cap stocks, like <strong>Amazon.com (AMZN</strong> 3280.00, -25.00, -0.8%), <strong>Tesla (TSLA</strong> 813.82, -35.64, -4.2%), and <strong>Apple (AAPL</strong> 135.44, -0.57, -0.4%), have been weighty influences on the major indices.</p><p>Other laggards of note include <strong>General Motors (GM</strong> 53.64, -2.42, -4.3%) and <strong>Cisco (CSCO</strong> 46.32, -2.18, -4.5%) following their respective earnings reports and commentary. Conversely, <strong>Lyft (LYFT</strong> 56.08, +2.44, +4.6%) and <strong>Twitter (TWTR</strong> 65.04, +5.17, +8.6%) have been greeted favorably by investors following their respective reports and commentary.</p><p>Also notable today is that the stock market is languishing even though Fed Chair Powell is expected to reiterate his call for extended policy support when he speaks at 2:00 p.m. ET today about the state of the labor market. Additionally, a drop in long-term rates following a friendly CPI report for January hasn't been much of a support factor either. The 10-yr yield is down two basis points to 1.14%.</p><p>The Dow Jones Industrial Average is up 0.1%; the S&P 500 is down 0.1%; the Nasdaq Composite is down 0.5%; and the Russell 2000 is down 1.4%.</p>",
+                    "linkableCompanyRICs": [
+                        "TSLA",
+                        "QQQ",
+                        "TWTR",
+                        "LYFT",
+                        "XLK",
+                        "AAPL",
+                        "CSCO",
+                        "AMZN",
+                        "SPY",
+                        "DIA",
+                        "IWM"
+                    ],
+                    "linkableSectors": [],
+                    "type": "InPlayBIPStory",
+                    "saved": false,
+                    "inPlayBIPStory": {
+                        "categories": [
+                            "ETF"
+                        ],
+                        "__typename": "InPlayBIPStory"
+                    },
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "e8ef831e-6863-46db-9300-a41a64e0dd02",
+                    "headlineText": "Cisco slumps lower despite good earnings results",
+                    "revised": 1612971884607,
+                    "story": "<p><strong>Cisco Systems (CSCO -5%)</strong> is trading a good bit lower today even after the company issued an upside earnings report, solid guidance, and a modest dividend increase. However, the report also included a few trouble spots. </p><p>Why is the stock lower despite what looks like generally good results?</p><ul><li> Adjusted EPS and revenue for Q2 (Jan) both exceeded estimates. Maybe we are nitpicking, but the $0.04 EPS upside was a notch lower than the $0.06-0.08 beats Cisco posted in the prior three quarters. </li><li> The guidance for Q3 (Apr) may be weighing on the stock a bit. After guiding nicely higher last quarter, Cisco is guiding EPS in-line this quarter. However, revenue guidance had some modest upside; if Cisco were to hit its target, AprQ would mark a return to yr/yr growth for the first time in several quarters. </li><li>Margins are a closely watched metric with Cisco, and the company performed well here despite a difficult macro environment. Non-GAAP operating margin in Q2 was 34.4% vs prior guidance of 32-33%. However, Cisco is guiding to a sequential decline in margins in Q3 at 33-34%, although it is possible that Cisco is guiding conservatively. </li><li>The earnings call was mixed. Cisco said it's seeing signs of gradual improvement led by order growth in Commercial, Public Sector, and Service Provider businesses. However, the Enterprise market remains soft, driven by some elongated sales cycles and a continued pause in spending among some customers in connection with the pandemic. Investors keep hoping to see Enterprise start to turn the corner, but it sounds like it will take time. </li><li>Infrastructure Platforms was down 3%. As a reminder, this is the product area most impacted by the COVID environment. That's a notable improvement from down 16% in Q1, but it's still a problem area for Cisco. </li></ul><p>There were some rays of hope. Total product revenue was down 1% yr/yr to $8.6 bln, an improvement from down 13% last quarter. Switching revenue was flat overall, and Cisco saw solid growth in Data Center Switching, including strong growth for the Nexus 9000. Wireless growth was driven by the continued ramp of Wi-Fi 6 products. Webex remains a bright spot, reporting double-digit growth fueled by remote working. Security was up 10%, with cloud security seeing strong double-digit growth. </p><p>In sum, this was really more of a mixed quarter overall. After last quarter's strong results/guidance, this quarter's numbers were not quite as robust. Cisco is cautiously optimistic for IT budget growth in calendar 2021, but the recovery is going to take some time for Cisco. While the company has cloud, security, and video conferencing segments, which are the hot areas for remote working, Cisco remains heavily exposed to large hardware components and enterprise, which have been laggards. </p>",
+                    "linkableCompanyRICs": [
+                        "CSCO"
+                    ],
+                    "linkableSectors": [],
+                    "type": "StockStory",
+                    "saved": false,
+                    "inPlayBIPStory": null,
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "1adda7e0-1547-434e-b1e9-9e63b6fd133d",
+                    "headlineText": "Earnings/guidance movers",
+                    "revised": 1612967901000,
+                    "story": "<ul><li><span style=\"color: rgb(34, 136, 34);\"><strong>Gainers: </strong></span><b>CRTO</b> +20.42% <b>MODN</b> +17.85% <b>EGOV</b> +14.94% <b>MESA</b> +14.25% <b>TWTR</b> +13.36% <b>USNA</b> +12.72% <b>UAA</b> +9.89% <b>ENPH</b> +9.66% <b>LYFT</b> +9.77% <b>IQV</b> +8.15% <b>CCK</b> +7.84% <b>EXTR</b> +6.54% <b>CCJ</b> +6.01% <b>TWO</b> +4.36% <b>STEP</b> +3.73% <b>TYL</b> +3.54% <b>ARCC</b> +3.40% <b>RRR</b> +3.20% <b>DCPH</b> +3.48% <b>CDW</b> +2.36% <b>ACGL</b> +2.09% <b>CIM</b> +1.99% <b>PEAK</b> +1.64% <b>BKH</b> +1.84%</li><li><span style=\"color: rgb(255, 0, 0);\"><strong>Decliners</strong></span>: <b>CPSI</b> -13.91% <b>AYX</b> -12.23% <b>CDAY</b> -9.82% <b>AKAM</b> -9.14% <b>HCSG</b> -7.79% <b>PAA</b> -6.72% <b>NCR</b> -5.73% <b>AEIS</b> -6.08% <b>IPG</b> -5.59% <b>REYN</b> -4.44% <b>TMHC</b> -4.52% <b>FMC</b> -4.32% <b>CSCO</b> -4.02% <b>TEVA</b> -3.75% <b>MAT</b> -3.50% GM -3.80% <b>MTW</b> -3.37% <b>AIZ</b> -2.17% <b>PRI</b> -3.42% <b>CNO</b> -2.15% <b>G</b> -1.86% <b>NGL</b> -1.79% <b>THC</b> -0.10% <b>CME</b> -1.46% <b>BDC</b> -1.45%</li></ul>",
+                    "linkableCompanyRICs": [
+                        "PRI",
+                        "DCPH",
+                        "REYN",
+                        "RRR",
+                        "STEP",
+                        "EGOV",
+                        "TEVA",
+                        "THC",
+                        "TMHC",
+                        "CNO PR A",
+                        "TWO",
+                        "TWTR",
+                        "TYL",
+                        "MAT",
+                        "UAA",
+                        "UA",
+                        "USNA",
+                        "ENPH",
+                        "EXTR",
+                        "ARCC",
+                        "FMC",
+                        "G",
+                        "HCSG",
+                        "IPG",
+                        "IQV",
+                        "LYFT",
+                        "MESA",
+                        "ACGL",
+                        "AEIS",
+                        "AIZP",
+                        "AKAM",
+                        "BDC",
+                        "CCJ",
+                        "CDAY",
+                        "CDW",
+                        "CIM PR D",
+                        "CIM PR B",
+                        "CIM PR A",
+                        "CIM PR C",
+                        "CIM",
+                        "CME",
+                        "CNO",
+                        "CPSI",
+                        "CRTO",
+                        "CSCO",
+                        "MODN",
+                        "MTW",
+                        "NCR",
+                        "NGL",
+                        "PAA",
+                        "PEAK",
+                        "CCK",
+                        "BKH",
+                        "TWO PR A",
+                        "AIZ",
+                        "TWO PR D",
+                        "TWO PR C",
+                        "AFC",
+                        "AYX",
+                        "TWO PR B",
+                        "ACGLP",
+                        "ACGLO",
+                        "BDC PR B",
+                        "NGL PR C",
+                        "NGL PR B",
+                        "TWO PR E",
+                        "AIZN"
+                    ],
+                    "linkableSectors": [],
+                    "type": "InPlayBIPStory",
+                    "saved": false,
+                    "inPlayBIPStory": {
+                        "categories": [
+                            "TechnicalAnalysis"
+                        ],
+                        "__typename": "InPlayBIPStory"
+                    },
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "94057d89-cc18-4899-ba7f-be40532e33ba",
+                    "headlineText": "Cisco CEO Chuck Robbins CNBC interview",
+                    "revised": 1612967221000,
+                    "story": "<p>Mr. Robbins said:</p><ul><li>Every customer segment improved.</li><li>WiFi demand was up 20% yr/yr.</li><li>Other products had double digit growth.</li><li>Customers are realizing that security and privacy are important in data products.</li></ul>",
+                    "linkableCompanyRICs": [
+                        "CSCO"
+                    ],
+                    "linkableSectors": [],
+                    "type": "InPlayBIPStory",
+                    "saved": false,
+                    "inPlayBIPStory": {
+                        "categories": [],
+                        "__typename": "InPlayBIPStory"
+                    },
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "39dd30c4-f84f-4618-80ad-06d705b3f3c6",
+                    "headlineText": "Gapping down",
+                    "revised": 1612961924000,
+                    "story": "<p><strong><span style=\"color: #ff0000;\">Gapping down<br> </span>In reaction to earnings/guidance</strong>: </p><ul><li><b>CPSI</b> -13.4%,  <b>AYX</b> -8.2%,  <b>AKAM</b> -7% (also announces organizational changes), <b>ATEN</b> -6%,  <b>CSCO</b> -4.7% (also raises dividend), <b>PAA</b> -4.6%,  <b>CDAY</b> -3.6%,  <b>G</b> -3.1% (also announces $500 mln increase to share repurchase auth; and 10% dividend increase), <b>MTW</b> -2.9%,  <b>VOYA</b> -2.7%,  <b>FMC</b> -2.5%,  <b>EQNR</b> -1.8%,  <b>NGL</b> -1.5%,  <b>FISV</b> -1.5%,  <b>AIZ</b> -1.3%,  <b>TPB</b> -1.2%,  <b>IPG</b> -1.1% </li></ul><p><strong>Other news</strong>: </p><ul><li><b>HCCI</b> -13.7% (collaborates with Romeo Power (RMO) to invest in battery recycling)</li><li><b>SAVA</b> -12.7% (entered into a definitive agreement with several healthcare-focused and other institutional investors for the purchase of 4,081,633 shares of its common stock, at a purchase price of $49.00/share, for gross proceeds of ~$200.0 mln, in a registered direct offering) </li><li><b>LMB</b> -11.9% (prices offering of 1,783,500 shares of its common stock at a price to the public of $12.00/share)</li><li><b>ENLV</b> -10.8% (increases size of the previously announced offering of 2,296,107 ordinary shares at $20.00 per ordinary share)</li><li><b>HOFV</b> -9.9% (prices offering of 12,244,897 shares of common stock at $2.45 per share) </li><li><b>VNRX</b> -9.1% (stock offering)</li><li><b>XONE</b> -7.2% (stock offering)</li><li><b>BLDP</b> -4.8% (announces $350 mln bought deal offering)</li><li><b>AUTL</b> -4.3% (prices offering of 14,285,715 ADSs at $7.00 per ADS) </li><li><b>ASRT</b> -2.5% (prices offering of 35 mln shares of common stock at $0.98 per share) </li><li><b>ITRM</b> -1.8% (prices offering of $17.5 mln shares of common stock at $2.00 per share)</li></ul><p><strong>Analyst comments</strong>: </p><ul><li><b>QLYS</b> -2.8% (downgraded to Underweight from Equal-Weight at Morgan Stanley)</li><li><b>CRSR</b> -2.6% (downgraded to Neutral from Buy at Goldman)</li><li><b>SPCE</b> -1.5% (downgraded to Neutral from Buy at UBS)</li><li><b>CHUY</b> -1.2% (downgraded to Mkt Perform from Outperform at Raymond James)</li></ul>",
+                    "linkableCompanyRICs": [
+                        "VNRX",
+                        "VOYA",
+                        "XONE",
+                        "NGL",
+                        "LMB",
+                        "PAA",
+                        "AIZ",
+                        "AIZP",
+                        "ATEN",
+                        "AUTL",
+                        "SAVA",
+                        "TPB",
+                        "BLDP",
+                        "CDAY",
+                        "EQNR",
+                        "FISV",
+                        "FMC",
+                        "G",
+                        "HCCI",
+                        "HOFV",
+                        "ADS",
+                        "AKAM",
+                        "IPG",
+                        "ITRM",
+                        "ASRT",
+                        "MTW",
+                        "QLYS",
+                        "CHUY",
+                        "RMO",
+                        "CPSI",
+                        "CRSR",
+                        "CSCO",
+                        "SPCE",
+                        "UBS",
+                        "ENLV",
+                        "AYX",
+                        "HOFVW",
+                        "SPCE U",
+                        "VOYA PR B",
+                        "NGL PR C",
+                        "SPCE WS",
+                        "RMO WS",
+                        "NGL PR B",
+                        "AIZN"
+                    ],
+                    "linkableSectors": [],
+                    "type": "InPlayBIPStory",
+                    "saved": false,
+                    "inPlayBIPStory": {
+                        "categories": [
+                            "TechnicalAnalysis"
+                        ],
+                        "__typename": "InPlayBIPStory"
+                    },
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "af381e71-59a0-46b9-ac16-30a798bab116",
+                    "headlineText": "Early premarket gappers",
+                    "revised": 1612956936000,
+                    "story": "<ul><li><strong><span style=\"color: rgb(34, 136, 34);\">Gapping up</span></strong>: <ul><li><b>NEPT</b> +88.9%,  <b>GMDA</b> +41.6%,  <b>FRX</b> +28.3%,  <b>GNFT</b> +26.7%,  <b>MODN</b> +14%,  <b>ABCL</b> +13.8%,  <b>CAN</b> +13.3%,  <b>LYFT</b> +12.8%,  <b>KALV</b> +10%,  <b>USNA</b> +9.1%,  <b>MESA</b> +8.6%,  <b>ENPH</b> +7.4%,  <b>STEP</b> +7.3%,  <b>URBN</b> +6.9%,  <b>ASRT</b> +6.8%,  <b>OI</b> +6.2%,  <b>RICK</b> +5.8%,  <b>CCK</b> +5.8%,  <b>BG</b> +5.4%,  <b>SRG</b> +4.7%,  <b>TWTR</b> +4.3%,  <b>ONCR</b> +4.2%,  <b>MTCH</b> +3.9%,  <b>RRR</b> +3.7%,  <b>OBSV</b> +3.6%,  <b>YELP</b> +3.1%,  <b>TM</b> +2.8%,  <b>ACGL</b> +2.7%,  <b>TWO</b> +2.6%,  <b>KTOS</b> +2.5%,  <b>LLY</b> +2.1%,  <b>MAT</b> +2.1%,  <b>DCPH</b> +1.9%,  <b>RPD</b> +1.9%,  <b>FULT</b> +1.7%,  <b>BNTX</b> +1.6%,  <b>THC</b> +1.6%,  <b>MRNA</b> +1.1%,  <b>TAK</b> +1.1%,  <b>QGEN</b> +1.1%</li></ul></li><li><strong><span style=\"color: rgb(255, 0, 0);\">Gapping down</span></strong>: <ul><li><b>CPSI</b> -13.4%,  <b>SAVA</b> -12.7%,  <b>HOFV</b> -10.9%,  <b>ENLV</b> -10.4%,  <b>LMB</b> -9.8%,  <b>AYX</b> -9.1%,  <b>VNRX</b> -8.5%,  <b>AKAM</b> -7.9%,  <b>XONE</b> -7.3%,  <b>CDAY</b> -6.9%,  <b>PEAK</b> -5%,  <b>CSCO</b> -4.7%,  <b>MREO</b> -4.3%,  <b>NCR</b> -4.2%,  <b>BLDP</b> -3.4%,  <b>MTW</b> -3.2%,  <b>ITRM</b> -3.1%,  <b>PAA</b> -3.1%,  <b>AIZ</b> -3%,  <b>VOYA</b> -2.7%,  <b>FMC</b> -2.5%,  <b>AUTL</b> -2.1%,  <b>ATEN</b> -2.1%,  <b>CDAK</b> -2%,  <b>FISV</b> -1.3%,  <b>EXTR</b> -1.3%,  <b>G</b> -1.3%,  <b>WELL</b> -1%</li></ul></li></ul>",
+                    "linkableCompanyRICs": [
+                        "LMB",
+                        "FISV",
+                        "URBN",
+                        "ENPH",
+                        "KTOS",
+                        "ACGL",
+                        "VNRX",
+                        "CAN",
+                        "VOYA",
+                        "FULT",
+                        "AIZ",
+                        "OBSV",
+                        "OI",
+                        "ONCR",
+                        "PAA",
+                        "WELL",
+                        "SRG",
+                        "PEAK",
+                        "G",
+                        "QGEN",
+                        "RPD",
+                        "RRR",
+                        "THC",
+                        "XONE",
+                        "YELP",
+                        "HOFV",
+                        "TWTR",
+                        "ITRM",
+                        "AUTL",
+                        "KALV",
+                        "BLDP",
+                        "CCK",
+                        "CDAK",
+                        "CDAY",
+                        "CPSI",
+                        "CSCO",
+                        "LLY",
+                        "ENLV",
+                        "EXTR",
+                        "LYFT",
+                        "FMC",
+                        "GNFT",
+                        "MESA",
+                        "DCPH",
+                        "MODN",
+                        "MRNA",
+                        "MTCH",
+                        "MTW",
+                        "NCR",
+                        "SRG PR A",
+                        "STEP",
+                        "TWO",
+                        "TWO PR A",
+                        "FRX",
+                        "MAT",
+                        "ABCL",
+                        "AIZP",
+                        "AKAM",
+                        "MREO",
+                        "GMDA",
+                        "ASRT",
+                        "ATEN",
+                        "BG",
+                        "SAVA",
+                        "BNTX",
+                        "TM",
+                        "USNA",
+                        "NEPT",
+                        "TAK",
+                        "TWO PR D",
+                        "TWO PR C",
+                        "RICK",
+                        "AYX",
+                        "FRX.U",
+                        "FRX WS",
+                        "HOFVW",
+                        "TWO PR B",
+                        "VOYA PR B",
+                        "ACGLP",
+                        "ACGLO",
+                        "TWO PR E",
+                        "AIZN",
+                        "FULTP"
+                    ],
+                    "linkableSectors": [],
+                    "type": "InPlayBIPStory",
+                    "saved": false,
+                    "inPlayBIPStory": {
+                        "categories": [
+                            "TechnicalAnalysis"
+                        ],
+                        "__typename": "InPlayBIPStory"
+                    },
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "cfafbadc-0fa2-4f0a-8a03-864d58de03d9",
+                    "headlineText": "After Hours Summary: USNA +15.4%, MODN +13.2%, LYFT +10.5% higher on earnings; AYX -8.8%, AKAM -7%, CSCO -5.4% lower on earnings",
+                    "revised": 1612913691000,
+                    "story": "<p><strong><span style=\"color: rgb(34, 136, 34);\">After Hours Gainers</span></strong><span style=\"color: rgb(12, 12, 12);\">:</span></p> <p><strong>Companies trading higher in after hours in reaction to earnings/guidance</strong>: <b>USNA</b> +15.4% (also authorizes $150 mln share repurchase program), <b>MODN</b> +13.2%,  <b>LYFT</b> +10.5%,  <b>CCK</b> +7.8%,  <b>OI</b> +6.4%,  <b>ENPH</b> +5.9%,  <b>URBN</b> +5.9%,  <b>RICK</b> +5.8%,  <b>STEP</b> +4.6%,  <b>THC</b> +3.8%,  <b>QGEN</b> +3.6%,  <b>MESA</b> +3.5%,  <b>GPRE</b> +3.2%,  <b>TWTR</b> +2.6%,  <b>MAT</b> +2.3%,  <b>TWO</b> +2.3%,  <b>BW</b> +2.3% (also announces stock offering), <b>RPD</b> +2%,  <b>YELP</b> +2%,  <b>BKH</b> +0.1%,  <b>PRI</b> +0.1% (also raises dividend; approves new buyback), </p> <p><strong>Companies trading higher in after hours in reaction to news</strong>: <b>GNFT</b> +103.8% (positive results from the Ph 2 clinical trial evaluating elafibranor), <b>GMDA</b> +71.6% (presents Phase 3 data on omidubicel; anticipates BLA submission in 2H21), <b>KALV</b> +3.3% (stock offering), <b>MTCH</b> +2.4% (to acquire Hyperconnect for US$1.725 bln in cash and stock), <b>FULT</b> +1.7% (approves $75 mln stock repurchase program), <b>IVZ</b> +1.4% (reports Jan AUM data), <b>KTOS</b> +1.1% (stock offering), <b>WYNN</b> +0.9% (WynnBET receives conditional approval for online sports betting in Tennessee), <b>MRNA</b> +0.7% (announces vaccine supply agreements with Taiwan and Colombia), <b>SRG</b> +0.2% (new CEO), <b>IBM</b> +0.2% (Instacart acquires over 250 patents from <b>IBM</b>), <b>APAM</b> +0.1% (reports Jan AUM data), <b>SQZ</b> +0.1% (stock offering), </p> <p><strong><span style=\"color: rgb(255, 0, 0);\">After Hours Losers</span></strong><span style=\"color: rgb(12, 12, 12);\">:</span></p> <p><strong>Companies trading lower in after hours in reaction to earnings/guidance</strong>: <b>CPSI</b> -13.4%,  <b>AYX</b> -8.8%,  <b>ATEN</b> -8.7%,  <b>AKAM</b> -7% (also announces organizational changes), <b>PAA</b> -7%,  <b>CDAY</b> -6.9%,  <b>CSCO</b> -5.4% (also raises dividend), <b>NCR</b> -4%,  <b>NGL</b> -3.6%,  <b>FMC</b> -3%,  <b>DCPH</b> -2.7%,  <b>VOYA</b> -2.6%,  <b>MTW</b> -2.5%,  <b>FISV</b> -1.7%,  <b>EXTR</b> -1.4%,  <b>WELL</b> -0.9%,  <b>REYN</b> -0.8% (also raises dividend), <b>G</b> -0.3% (also announces $500 mln increase to share repurchase auth; and 10% dividend increase), <b>DEI</b> -0.2%,  <b>HIW</b> -0.2%,  </p> <p><strong>Companies trading lower in after hours in reaction to news</strong>: <b>VNRX</b> -12% (stock offering), <b>XONE</b> -9.2% (stock offering), <b>ENLV</b> -8.7% (announces $10 mln bought deal offering), <b>LMB</b> -7.9% (stock offering), <b>BLDP</b> -6.4% (announces $350 mln bought deal offering), <b>CDAK</b> -4% (stock offering), <b>MREO</b> -2.3% (ADS offering), <b>ONCR</b> -2.2% (stock offering), <b>SNY</b> -0.6% (FDA approves Libtayo as immunotherapy for patients with advanced basal cell carcinoma), <b>VRNS</b> -0.3% (files for mixed securities shelf offering), </p>",
+                    "linkableCompanyRICs": [
+                        "MRNA",
+                        "MTCH",
+                        "BW",
+                        "ADS",
+                        "URBN",
+                        "YELP",
+                        "CCK",
+                        "CDAK",
+                        "AKAM",
+                        "AYX",
+                        "BLDP",
+                        "FISV",
+                        "LMB",
+                        "MAT",
+                        "NCR",
+                        "SQZ",
+                        "SRG",
+                        "SRG PR A",
+                        "STEP",
+                        "THC",
+                        "VOYA",
+                        "VNRX",
+                        "VRNS",
+                        "APAM",
+                        "ATEN",
+                        "CPSI",
+                        "CSCO",
+                        "DCPH",
+                        "DEI",
+                        "ENPH",
+                        "ENLV",
+                        "FMC",
+                        "EXTR",
+                        "FULT",
+                        "G",
+                        "SNY",
+                        "GPRE",
+                        "HIW",
+                        "KALV",
+                        "KTOS",
+                        "LYFT",
+                        "GMDA",
+                        "IBM",
+                        "MODN",
+                        "VOYA PR B",
+                        "OI",
+                        "ONCR",
+                        "PAA",
+                        "QGEN",
+                        "RPD",
+                        "TWO",
+                        "TWO PR B",
+                        "TWO PR A",
+                        "TWTR",
+                        "PRI",
+                        "WELL",
+                        "XONE",
+                        "MTW",
+                        "NGL",
+                        "RICK",
+                        "TWO PR D",
+                        "GNFT",
+                        "TWO PR C",
+                        "NGL PR C",
+                        "REYN",
+                        "USNA",
+                        "IVZ",
+                        "WYNN",
+                        "NGL PR B",
+                        "MREO",
+                        "BKH",
+                        "TWO PR E",
+                        "MESA",
+                        "CDAY",
+                        "FULTP"
+                    ],
+                    "linkableSectors": [],
+                    "type": "InPlayBIPStory",
+                    "saved": false,
+                    "inPlayBIPStory": {
+                        "categories": [],
+                        "__typename": "InPlayBIPStory"
+                    },
+                    "isAtomPlus": false,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "65e88e63-a2c7-4989-a0d0-f34337767bf2",
+                    "headlineText": "Cisco On Call",
+                    "revised": 1612908120000,
+                    "story": "<ul><li>Enterprise still soft</li><li>Saw gradual recovery in several products</li><li>Switching revs were flat overall</li><li>Routing declined driven by weakness in service provider</li></ul>",
+                    "linkableCompanyRICs": [
+                        "CSCO"
+                    ],
+                    "linkableSectors": [],
+                    "type": "InPlayBIPStory",
+                    "saved": false,
+                    "inPlayBIPStory": {
+                        "categories": [
+                            "Earnings"
+                        ],
+                        "__typename": "InPlayBIPStory"
+                    },
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "9df5ae9e-9abb-4bdb-be0c-7fc677cf917d",
+                    "headlineText": "Cisco Reports Q2 EPS $0.60",
+                    "revised": 1612907651000,
+                    "story": "<br/><br/>Feb 9 (Reuters) - Cisco Systems Inc : <br/><br/>\u2022 CISCO REPORTS SECOND QUARTER EARNINGS <br/><br/>\u2022 Q2 REVENUE $12 BILLION VERSUS REFINITIV IBES ESTIMATE OF $11.92 BILLION <br/><br/>\u2022 SEES Q3 GAAP EARNINGS PER SHARE $0.64 TO $0.69 <br/><br/>\u2022 CISCO - QTRLY EARNINGS PER SHARE $0.60 <br/><br/>\u2022 Q2 EARNINGS PER SHARE VIEW $0.76 -- REFINITIV IBES DATA <br/><br/>\u2022 CISCO - RECOGNIZED $602 MILLION AND $232 MILLION OF RESTRUCTURING CHARGES DURING FIRST AND Q2 OF FISCAL 2021  Source text for Eikon:  Further company coverage:    ((Reuters.Briefs@thomsonreuters.com;))",
+                    "linkableCompanyRICs": [
+                        "CSCO"
+                    ],
+                    "linkableSectors": [
+                        "COMS",
+                        "TECH",
+                        "TEEQ"
+                    ],
+                    "type": "ReutersStory",
+                    "saved": false,
+                    "inPlayBIPStory": null,
+                    "isAtomPlus": false,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "404d4c96-1642-430d-aed1-e7be1338f3be",
+                    "headlineText": "Notable earnings/guidance movers: ENPH +8.8%, LYFT +6%, YELP +4.6% on the upside; AKAM -6.9%, AYX -5.2%, CSCO -3.1%, NCR -2.3%, FISV -2.2% on the downside",
+                    "revised": 1612906123000,
+                    "story": "<ul><li><strong><span style=\"color: rgb(34, 136, 34);\">Earnings/guidance g</span></strong><span style=\"color: rgb(34, 136, 34);\"><strong>ainers</strong></span><span style=\"color: rgb(12, 12, 12);\">:</span><strong><span style=\"color: rgb(34, 136, 34);\"></span> </strong><b>ENPH</b> +8.8%,  <b>LYFT</b> +6%,  <b>YELP</b> +4.6%,  <b>THC</b> +3.8%,  <b>TWO</b> +2.5%,  <b>MESA</b> +2.4%,  <b>QGEN</b> +1.7%,  <b>REYN</b> +1.7%,  <b>TWTR</b> +1.6%</li><li><strong><span style=\"color: rgb(255, 0, 0);\">Earnings/guidance losers</span></strong><span style=\"color: rgb(12, 12, 12);\">: <b>AKAM</b> -6.9%,  <b>AYX</b> -5.2%,  <b>CSCO</b> -3.1%,  <b>NCR</b> -2.3%,  <b>FISV</b> -2.2%</span></li></ul>",
+                    "linkableCompanyRICs": [
+                        "QGEN",
+                        "LYFT",
+                        "THC",
+                        "ENPH",
+                        "TWO",
+                        "TWO PR A",
+                        "TWO PR B",
+                        "NCR",
+                        "YELP",
+                        "FISV",
+                        "AYX",
+                        "TWTR",
+                        "AKAM",
+                        "CSCO",
+                        "TWO PR D",
+                        "TWO PR C",
+                        "REYN",
+                        "TWO PR E",
+                        "MESA"
+                    ],
+                    "linkableSectors": [],
+                    "type": "InPlayBIPStory",
+                    "saved": false,
+                    "inPlayBIPStory": {
+                        "categories": [
+                            "Earnings",
+                            "TechnicalAnalysis"
+                        ],
+                        "__typename": "InPlayBIPStory"
+                    },
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "c6a09a93-0838-45af-8d75-fc0e79d86d68",
+                    "headlineText": "Cisco forecasts third-quarter sales above estimates on remote work boost",
+                    "revised": 1612906109000,
+                    "story": "(Adds forecast, unit details) <br/><br/>Feb 9 (Reuters) - Cisco Systems Inc  forecast current-quarter revenue above analysts' estimates on Tuesday as the pandemic-induced rise in remote working drives up demand for its networking and teleconferencing tools. <br/><br/>With offices staying shut and scores of professionals working from home due to the health crisis, demand for the company's videoconferencing platform Webex, virtual private network AnyConnect and cybersecurity products has surged. <br/><br/>Cisco said it expects third-quarter revenue to increase between 3.5% to 5.5%, which implies a range between $12.4 billion to $12.64 billion compared with analysts' estimate of $12.35 billion.  <br/><br/>The company's revenue from the services business rose 2% to $3.39 billion in the second quarter ended Jan. 23. <br/><br/>However, total revenue fell slightly to $11.96 billion, from $12.01 billion a year earlier. Analysts were expecting a figure of $11.92 billion, according to IBES data from Refinitiv.   (Reporting by Munsif Vengattil in Bengaluru; Editing by Aditya Soni)  ((munsif.vengattil@thomsonreuters.com;))",
+                    "linkableCompanyRICs": [
+                        "MSFT",
+                        "CSCO"
+                    ],
+                    "linkableSectors": [
+                        "SWIT",
+                        "SOFW",
+                        "COMS",
+                        "TECH",
+                        "TEEQ"
+                    ],
+                    "type": "ReutersStory",
+                    "saved": false,
+                    "inPlayBIPStory": null,
+                    "isAtomPlus": false,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "2dcf40a5-ca28-4ce9-80e1-9663bdab0731",
+                    "headlineText": "Cisco beats by $0.04, reports revs in-line; guides AprQ EPS in-line, revs above consensus; increases quarterly dividend by 3%",
+                    "revised": 1612905263000,
+                    "story": "<ul><li>Reports Q2 (Jan) earnings of $0.79 per share, excluding non-recurring items, <strong>$0.04 <font color=\"228822\">better than</font></strong> the S&P Capital IQ Consensus of $0.75; revenues fell 0.4% year/year to $11.96 bln vs the $11.90 bln S&P Capital IQ Consensus.<ul><li>Non-GAAP operating margin was 34.4%, above prior guidance of 32-33%.</li><li>Product revenue strength across Catalyst 9000, Data Center Switching, Security, Wireless and Webex portfolios.</li><li> Great progress on business transformation to more software and subscription, with 76% of software revenue sold as a subscription.</li></ul></li><li>Co issues <strong>guidance</strong> for Q3 (Apr), sees EPS of $0.80-0.82, excluding non-recurring items, vs. $0.81 S&P Capital IQ Consensus; sees Q3 revs of $12.40-12.64 bln vs. $12.32 bln S&P Capital IQ Consensus.</li><li>\"We are seeing encouraging signs of strength across our business showing how our technology will be a powerful engine for recovery and growth...Cisco executed well in Q2, delivering growth in orders, strong margins, and growth in non-GAAP EPS, while continuing to grow deferred revenue in double-digits through the shift to more software and subscriptions.\"</li><li>Co increases quarterly dividend by 3% to $0.37/sh from $0.36/sh.</li></ul>",
+                    "linkableCompanyRICs": [
+                        "CSCO"
+                    ],
+                    "linkableSectors": [],
+                    "type": "InPlayBIPStory",
+                    "saved": false,
+                    "inPlayBIPStory": {
+                        "categories": [
+                            "Earnings"
+                        ],
+                        "__typename": "InPlayBIPStory"
+                    },
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "f0cfd53b-77cb-4f76-99e1-c0500c3ac51f",
+                    "headlineText": "Cisco Systems shares are trading lower after the company reported Q2 earnings results and issued Q3 guidance.",
+                    "revised": 1612905158000,
+                    "story": "",
+                    "linkableCompanyRICs": [
+                        "CSCO"
+                    ],
+                    "linkableSectors": [],
+                    "type": "WiimStory",
+                    "saved": false,
+                    "inPlayBIPStory": null,
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "15459a63-30ec-4694-8139-3f96b4be4399",
+                    "headlineText": "Cisco beats quarterly revenue estimates",
+                    "revised": 1612904949000,
+                    "story": "<br/><br/>Feb 9 (Reuters) - Cisco Systems Inc  on Tuesday beat quarterly revenue estimates, helped by robust demand for its networking and teleconferencing tools due to the pandemic-induced rise in remote working. <br/><br/>The company's revenue fell slightly to $11.96 billion in the second quarter ended Jan. 23, from $12.01 billion a year earlier. Analysts on average were expecting a figure of $11.92 billion, according to IBES data from Refinitiv.   (Reporting by Munsif Vengattil in Bengaluru; Editing by Aditya Soni)  ((munsif.vengattil@thomsonreuters.com;))",
+                    "linkableCompanyRICs": [
+                        "MSFT",
+                        "CSCO"
+                    ],
+                    "linkableSectors": [
+                        "SWIT",
+                        "SOFW",
+                        "COMS",
+                        "TECH",
+                        "TEEQ"
+                    ],
+                    "type": "ReutersStory",
+                    "saved": false,
+                    "inPlayBIPStory": null,
+                    "isAtomPlus": false,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "50a2e85a-c034-462a-8193-47c3290f598a",
+                    "headlineText": "Cisco sees Q3 $0.80-0.82 vs $0.81 S&P Capital IQ Consensus Estimate; sees revs $12.40-12.64 bln vs $12.32 bln S&P Capital IQ Consensus Estimate",
+                    "revised": 1612904948000,
+                    "story": "",
+                    "linkableCompanyRICs": [
+                        "CSCO"
+                    ],
+                    "linkableSectors": [],
+                    "type": "InPlayBIPStory",
+                    "saved": false,
+                    "inPlayBIPStory": {
+                        "categories": [
+                            "Earnings"
+                        ],
+                        "__typename": "InPlayBIPStory"
+                    },
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "d2d06946-b033-421b-b9b8-20edc6f13ab0",
+                    "headlineText": "Cisco prelim Q2 $0.79 vs $0.75 S&P Capital IQ Consensus Estimate; revs $11.96 bln vs $11.90 bln S&P Capital IQ Consensus Estimate",
+                    "revised": 1612904822000,
+                    "story": "",
+                    "linkableCompanyRICs": [
+                        "CSCO"
+                    ],
+                    "linkableSectors": [],
+                    "type": "InPlayBIPStory",
+                    "saved": false,
+                    "inPlayBIPStory": {
+                        "categories": [
+                            "Earnings"
+                        ],
+                        "__typename": "InPlayBIPStory"
+                    },
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "43d3abab-39c0-4ef2-b34e-f2a5a164f627",
+                    "headlineText": "Cisco: Earnings Preview; tends to report upside",
+                    "revised": 1612898213200,
+                    "story": "<p><strong>Cisco Systems (CSCO)</strong> is set to report Q2 (Jan) results today after the close with a call to follow at 4:30pm ET. CSCO typically reports 5 minutes after the close. The current S&P CapitalIQ consensus is for adjusted EPS of $0.75 (down 3% yr/yr) and revenue of $11.90 bln (down 1% yr/yr). Cisco typically guides for EPS and revenue (on a percentage basis) for the next quarter. </p><ul><li>Last quarter, Cisco guided to Q2 adjusted EPS of $0.74-0.76 and to revenue of $11.77-12.01 bln. Cisco tends to be conservative with guidance, which usually translates into analysts being on the higher end of guidance. But this time consensus is pretty smack dab in the middle which may mean analysts are a bit less confident. Current guidance for non-GAAP operating margin in Q2 is 32-33%. Non-GAAP operating margin in Q1 was 32.7% vs prior guidance of 30-31%. </li><li>Revenue declined in FY20 (Jul) and is expected to decline again in FY21 before returning to growth in FY22. The big problem is on the hardware side as Cisco's core switching and routing sales (Infrastructure Platforms), which represent roughly 40% of total sales, have been on the decline. Cisco has been moving more into software and services, but hardware remains a big piece. </li><li><strong>Cisco is a particularly important tech name to watch with earnings.</strong> Because it's so large and touches so many areas, it's a great barometer to get a general sense for enterprise sending levels on IT. It's also the first big tech name to report that includes the month of January, so we should get a better sense of how briskly enterprises are spending this winter season with COVID cases rising again. </li><li><strong>Cisco has been active on the M&A front</strong>, announcing recent deals to acquire <strong>Acacia Communications (ACIA)</strong> for $4.5 bln and IMImobile for $730 mln. Acacia makes optical interconnect products that are used by cloud infrastructure operators, with a focus on embedded and pluggable modules. Pluggable modules is a high growth area and it's still in the early stages. The industry is transitioning from chassis-based systems to pluggable technology to simplify operations. </li><li><strong>Finally, in terms of what to expect</strong>, Cisco has not missed on EPS in the past five years, so it's pretty reliable. Of note, the beats have been getting larger since the pandemic again, in the $0.06-0.08 range, following a series of smaller $0.01-0.03 beats. (PVIEW)</li></ul>",
+                    "linkableCompanyRICs": [
+                        "CSCO"
+                    ],
+                    "linkableSectors": [],
+                    "type": "StockStory",
+                    "saved": false,
+                    "inPlayBIPStory": null,
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "4e68cfc2-0861-45df-96a9-d561a1eaba9f",
+                    "headlineText": "Cisco: Earnings Preview; tends to report upside but is not usually a big mover around earnings",
+                    "revised": 1612898038000,
+                    "story": "<p><strong>Cisco Systems (CSCO)</strong> is set to report Q2 (Jan) results today after the close with a call to follow at 4:30pm ET. CSCO typically reports 5 minutes after the close. The current S&P CapitalIQ consensus is for adjusted EPS of $0.75 (down 3% yr/yr) and revenue of $11.90 bln (down 1% yr/yr). Cisco typically guides for EPS and revenue (on a percentage basis) for the next quarter. </p><ul><li>Last quarter, Cisco guided to Q2 adjusted EPS of $0.74-0.76 and to revenue of $11.77-12.01 bln. Cisco tends to be conservative with guidance, which usually translates into analysts being on the higher end of guidance. But this time consensus is pretty smack dab in the middle which may mean analysts are a bit less confident. Current guidance for non-GAAP operating margin in Q2 is 32-33%. Non-GAAP operating margin in Q1 was 32.7% vs prior guidance of 30-31%. </li><li>Revenue declined in FY20 (Jul) and is expected to decline again in FY21 before returning to growth in FY22. The big problem is on the hardware side as Cisco's core switching and routing sales (Infrastructure Platforms), which represent roughly 40% of total sales, have been on the decline. Cisco has been moving more into software and services, but hardware remains a big piece. </li><li><strong>Cisco is a particularly important tech name to watch with earnings.</strong> Because it's so large and touches so many areas, it's a great barometer to get a general sense for enterprise sending levels on IT. It's also the first big tech name to report that includes the month of January, so we should get a better sense of how briskly enterprises are spending this winter season with COVID cases rising again. </li><li><strong>Cisco has been active on the M&A front</strong>, announcing recent deals to acquire <strong>Acacia Communications (ACIA)</strong> for $4.5 bln and IMImobile for $730 mln. Acacia makes optical interconnect products that are used by cloud infrastructure operators, with a focus on embedded and pluggable modules. Pluggable modules is a high growth area and it's still in the early stages. The industry is transitioning from chassis-based systems to pluggable technology to simplify operations. </li><li><strong>Finally, in terms of what to expect</strong>, Cisco has not missed on EPS in the past five years, so it's pretty reliable. Of note, the beats have been getting larger since the pandemic again, in the $0.06-0.08 range, following a series of smaller $0.01-0.03 beats. (PVIEW)</li></ul>",
+                    "linkableCompanyRICs": [
+                        "ACIA",
+                        "CSCO"
+                    ],
+                    "linkableSectors": [],
+                    "type": "InPlayBIPStory",
+                    "saved": false,
+                    "inPlayBIPStory": {
+                        "categories": [
+                            "Earnings"
+                        ],
+                        "__typename": "InPlayBIPStory"
+                    },
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "aab18ead-4322-4049-b42b-d15956bd6080",
+                    "headlineText": "Earnings Out This Afternoon/Tomorrow Morning",
+                    "revised": 1612892222000,
+                    "story": "<ul><li><b>This Afternoon</b>:                                         AKAM AYX ACGL AIZ BKH CDAY CSCO CNO CCK DEI EGP ENPH FISV FMC G PEAK HP HIW LYFT MTW MAT MESA MODN NCR NGL OI PAA PRI QGEN RPD RRR REYN THC TWTR TWO UDR USNA VOYA WELL YELP <br><b></b></li><li><b>Tomorrow Morning</b>:                                          AEIS ARCC BDC BXMT BG CCJ CDW CHEF CIM CME KO CRTO DBD EEFT GM HCSG INMD IPG IQV PAG RDWR FLOW TMHC TEVA TPB UAA               </li></ul>",
+                    "linkableCompanyRICs": [
+                        "LYFT",
+                        "HIW",
+                        "MODN",
+                        "MTW",
+                        "NGL",
+                        "OI",
+                        "PAA",
+                        "PAG",
+                        "BDC PR B",
+                        "CIM PR D",
+                        "TWO PR B",
+                        "TWO PR A",
+                        "TWO PR D",
+                        "NGL PR C",
+                        "WELL",
+                        "AEIS",
+                        "AFC",
+                        "ACGL",
+                        "ACGLP",
+                        "AYX",
+                        "BXMT",
+                        "CCJ",
+                        "CIM",
+                        "CSCO",
+                        "DBD",
+                        "AIZ",
+                        "YELP",
+                        "EGP",
+                        "ENPH",
+                        "G",
+                        "HCSG",
+                        "BDC",
+                        "CIM PR C",
+                        "CIM PR B",
+                        "CNO",
+                        "NGL PR B",
+                        "TWO PR C",
+                        "MAT",
+                        "INMD",
+                        "IPG",
+                        "KO",
+                        "DEI",
+                        "CDW",
+                        "AKAM",
+                        "CCK",
+                        "PRI",
+                        "CHEF",
+                        "QGEN",
+                        "RDWR",
+                        "REYN",
+                        "RPD",
+                        "VOYA PR B",
+                        "FMC",
+                        "RRR",
+                        "CNO PR A",
+                        "ACGLO",
+                        "CIM PR A",
+                        "CME",
+                        "FLOW",
+                        "TEVA",
+                        "THC",
+                        "FISV",
+                        "TMHC",
+                        "TPB",
+                        "TWO",
+                        "TWTR",
+                        "UAA",
+                        "UA",
+                        "UDR",
+                        "USNA",
+                        "VOYA",
+                        "IQV",
+                        "ARCC",
+                        "EEFT",
+                        "AIZP",
+                        "BG",
+                        "CRTO",
+                        "BKH",
+                        "TWO PR E",
+                        "MESA",
+                        "NCR",
+                        "CDAY",
+                        "AIZN",
+                        "PEAK"
+                    ],
+                    "linkableSectors": [],
+                    "type": "InPlayBIPStory",
+                    "saved": false,
+                    "inPlayBIPStory": {
+                        "categories": [
+                            "Earnings"
+                        ],
+                        "__typename": "InPlayBIPStory"
+                    },
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "68d014f7-6f1a-47e3-b216-64637914f215",
+                    "headlineText": "Top-Five for the Dow Jones Industrial Average",
+                    "revised": 1612807285000,
+                    "story": "<ul><li>       Disney (<strong>DIS</strong>, 189.755 +8.60 ,<span style=\"color: rgb(34, 136, 34);\"><strong> +4.74% </strong></span>): Surging to all-time highs as travel/airlines have been outperformers; Disney reports earnings results after the close on Thursday</li><li> Goldman Sachs (<strong>GS</strong>, 300.75 +7.25 ,<span style=\"color: rgb(34, 136, 34);\"><strong> +2.47% </strong></span>): Starting the week higher after it closed last week within reach of new all-time highs </li><li> Chevron (<strong>CVX</strong>, 91.12 +1.86 ,<span style=\"color: rgb(34, 136, 34);\"><strong> +2.08% </strong></span>): Grinding higher for sixth straight session; shares will look to close above its 20-Day Moving Average (89.43) for the first time since Jan. 22 </li><li> Cisco (<strong>CSCO</strong>, 48.92 +0.84 ,<span style=\"color: rgb(34, 136, 34);\"><strong> +1.75% </strong></span>): Continuing last week's run to 52-week highs; the Co is slated to report earnings after the close tomorrow </li><li> McDonald's (<strong>MCD</strong>, 210.175 -2.41 ,<span style=\" color: rgb(255,0,0);\"><strong> -1.13% </strong></span>): Falling back below its 20-Day Moving Average (210.76) after closing above it the last 2 sessions </li></ul>",
+                    "linkableCompanyRICs": [
+                        "CSCO",
+                        "CVX",
+                        "DIS",
+                        "MCD",
+                        "GS",
+                        "GS PR N",
+                        "GS PR K",
+                        "GS PR A",
+                        "GS PR C",
+                        "GS PR D",
+                        "GS PR B",
+                        "GSC",
+                        "DIA",
+                        "GS PR J"
+                    ],
+                    "linkableSectors": [],
+                    "type": "InPlayBIPStory",
+                    "saved": false,
+                    "inPlayBIPStory": {
+                        "categories": [
+                            "ETF"
+                        ],
+                        "__typename": "InPlayBIPStory"
+                    },
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "96c640e3-ccac-47f0-8ad9-43f32218093a",
+                    "headlineText": "Sector Briefing: Technology",
+                    "revised": 1612803078000,
+                    "story": "<p>The top-weighted technology sector (+0.5%) trades a bit ahead of the S&P 500 (+0.3%) and Nasdaq (+0.4%), but like the broader market, the sector has backed off its early high. </p><p> Key factors driving today's performance include: </p><ul><li>Leadership from high-beta chipmakers. The PHLX Semiconductor Index is higher by 1.8%, extending its Q1 gain to 8.7%. </li><li>Strong gains in large components like <strong>NVIDIA</strong> (<strong>NVDA </strong>567.25, +23.61, +4.3%) and <strong>PayPal</strong> (<strong>PYPL </strong>279.01, +9.57, +3.5%) overshadowing slim losses in other influential listings. </li></ul><p><strong>Notable movers:</strong> </p><ul><li><strong>NVIDIA</strong> (<strong>NVDA </strong>567.25, +23.61, +4.3%): best performer in the sector, rallying to its best level since early November. </li><li><strong>PayPal</strong> (<strong>PYPL </strong>279.01, +9.57, +3.5%): rallying to a fresh record high. </li><li><strong>HP</strong> (<strong>HPQ </strong>27.08, +0.93, +3.6%): touched its best level since September 2000 before narrowing its gain. </li><li><strong>AMD</strong> (<strong>AMD </strong>90.56, +2.66, +3.0%): rising toward its 50-day moving average (91.78). </li><li><strong>Cisco</strong> (<strong>CSCO </strong>48.82, +0.74, +1.6%): rising to a one-year high. </li><li><strong>Lam</strong> <strong>Research</strong> (<strong>LRCX </strong>519.88, +10.12, +2.0%): remaining just above its 50-day moving average (503.71). </li><li><strong>Accenture</strong> (<strong>ACN </strong>256.30, +2.76, +1.1%): reclaiming its 50-day moving average (253.99). </li><li><strong>IBM</strong> (<strong>IBM </strong>122.86, +1.07, +0.9%): rising back above its 200-day moving average (122.59). Company announced a partnership with <strong>Palantir</strong> <strong>Technologies</strong> (<strong>PLTR </strong>36.62, +2.57, +7.6%). </li><li> <strong>Apple</strong> (<strong>AAPL </strong>136.20, -0.56, -0.4%): slipping toward Thursday's low. </li><li><strong>DXC</strong> <strong>Technology</strong> (<strong>DXC </strong>25.30, -0.64, -2.5%): weakest performer in the sector, falling below its 50-day moving average (25.68).</li></ul>",
+                    "linkableCompanyRICs": [
+                        "NVDA",
+                        "DXC",
+                        "ACN",
+                        "IBM",
+                        "CSCO",
+                        "AMD",
+                        "HPQ",
+                        "XLK",
+                        "LRCX",
+                        "PLTR",
+                        "AAPL",
+                        "PYPL"
+                    ],
+                    "linkableSectors": [],
+                    "type": "InPlayBIPStory",
+                    "saved": false,
+                    "inPlayBIPStory": {
+                        "categories": [
+                            "ETF"
+                        ],
+                        "__typename": "InPlayBIPStory"
+                    },
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                }
+            ],
+            "page": 0,
+            "hasMore": true,
+            "__typename": "PagedNews"
+        }
+    }
+}
