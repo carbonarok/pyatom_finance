@@ -4,7 +4,7 @@
             "id": "36b68fdc-0b19-4f3f-af23-18c4dabe5239",
             "metric": {
                 "id": "262cc732-cff3-4ed5-898f-10799b01e1a0",
-                "atomMarketCap": 204261.32324324327,
+                "atomMarketCap": 206543.1536135846,
                 "__typename": "Metric"
             },
             "__typename": "Symbol"

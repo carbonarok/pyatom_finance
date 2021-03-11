@@ -63,6 +63,15 @@ class Collector:
         }
         return self.requester.post_request(payload)
 
+    def get_future_events(self, symbol):
+        """getFutureEvents"""
+        payload = {
+            "operationName": "getManyEvents",
+            "variables": {"symbols": [symbol]},
+            "query": self._render_template("get_future_events.j2"),
+        }
+        return self.requester.post_request(payload)
+
     def get_market_cap(self, symbol):
         """getMarketCap"""
         payload = {
@@ -109,6 +118,15 @@ class Collector:
             "operationName": "getOverviewData",
             "variables": {"symbol": symbol},
             "query": self._render_template("get_overview_data.j2"),
+        }
+        return self.requester.post_request(payload)
+
+    def get_past_events(self, symbol):
+        """getPastEvents"""
+        payload = {
+            "operationName": "getManyEvents",
+            "variables": {"symbols": [symbol]},
+            "query": self._render_template("get_past_events.j2"),
         }
         return self.requester.post_request(payload)
 

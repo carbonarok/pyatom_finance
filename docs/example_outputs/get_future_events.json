@@ -1,0 +1,84 @@
+{
+    "data": {
+        "manyEvents": {
+            "futureEvents": [
+                {
+                    "EventId": "13185162",
+                    "name": "Q3 2021 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1620730740000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13689900",
+                    "name": "Q3 2021 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1621438200000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13689902",
+                    "name": "Q3 2021 Cisco Systems Inc Earnings Call",
+                    "eventType": "EarningsCallsAndPresentations",
+                    "startDate": 1621456200000,
+                    "transcriptId": "219835D5-28B2-4A87-A258-F47A559207A2",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13329970",
+                    "name": "Q4 2021 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1628593140000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13507155",
+                    "name": "Q1 2022 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1636541940000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                }
+            ],
+            "__typename": "Events"
+        }
+    }
+}

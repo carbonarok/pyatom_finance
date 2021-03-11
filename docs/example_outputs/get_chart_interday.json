@@ -49654,6 +49654,39 @@
                 "high": 46.74,
                 "low": 45.27,
                 "__typename": "ChartData"
+            },
+            {
+                "date": 1615233600000,
+                "price": 47.51,
+                "volume": 34824529,
+                "changePercent": null,
+                "open": null,
+                "close": null,
+                "high": 48.4,
+                "low": 46.2,
+                "__typename": "ChartData"
+            },
+            {
+                "date": 1615320000000,
+                "price": 47.89,
+                "volume": 26512658,
+                "changePercent": null,
+                "open": null,
+                "close": null,
+                "high": 48.37,
+                "low": 47.72,
+                "__typename": "ChartData"
+            },
+            {
+                "date": 1615406400000,
+                "price": 48.29,
+                "volume": 19841506,
+                "changePercent": null,
+                "open": null,
+                "close": null,
+                "high": 48.79,
+                "low": 48.19,
+                "__typename": "ChartData"
             }
         ]
     }

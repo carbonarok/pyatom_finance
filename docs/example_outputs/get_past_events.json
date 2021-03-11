@@ -1,0 +1,3113 @@
+{
+    "data": {
+        "manyEvents": {
+            "pastEvents": [
+                {
+                    "EventId": "13670964",
+                    "name": "Cisco Systems Inc at Morgan Stanley Technology, Media and Telecom Conference (Virtual)",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1614808800000,
+                    "transcriptId": "C227D337-0E65-4E86-A5FE-82D3D9A6C3E2",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Expected",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13610183",
+                    "name": "Cisco Systems Inc at Goldman Sachs Technology and Internet Conference (Virtual)",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1612962000000,
+                    "transcriptId": "E102B176-EAC6-4C95-8DBE-89C2005A01A2",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13515691",
+                    "name": "Q2 2021 Cisco Systems Inc Earnings Call",
+                    "eventType": "EarningsCallsAndPresentations",
+                    "startDate": 1612906200000,
+                    "transcriptId": "53FF6466-A290-4E87-8E88-EE53F90CBFE1",
+                    "LiveDialInStartDate": 1612906200000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-888-848-6507",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13040038",
+                    "name": "Q2 2021 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1612904714000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13582197",
+                    "name": "Acacia Communications Inc to Discuss Termination of Merger Agreement with Cisco Systems Inc - Conference Call",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1610402400000,
+                    "transcriptId": "B5DEC384-B82D-4F4D-A6F7-DC64C7FD06FF",
+                    "LiveDialInStartDate": 1610402400000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-(877) 407-8293",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13436522",
+                    "name": "Cisco Systems Inc Annual Shareholders Meeting",
+                    "eventType": "ShareholderAndAnnualMeetings",
+                    "startDate": 1607616000000,
+                    "transcriptId": "2338503B-3200-43D9-83D4-FCCA01F14731",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13535024",
+                    "name": "Cisco Systems Inc at Barclays Global Technology, Media and Telecommunications Conference (Virtual)",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1607540400000,
+                    "transcriptId": "D590A800-01F7-438B-98CD-5365B2E22628",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5499962",
+                    "name": "Cisco Systems Inc Annual Shareholders Meeting",
+                    "eventType": "ShareholderAndAnnualMeetings",
+                    "startDate": 1607529600000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13541880",
+                    "name": "Cisco Systems Inc, Singtel, and Qualcomm Inc at Milken Institute Asia Summit - The Race to Capture the Global 5G Market Panel",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1607490900000,
+                    "transcriptId": "C342B4EF-C634-4C50-B026-699ADC0A12AE",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13535023",
+                    "name": "Cisco Systems Inc at Raymond James Technology Investors Conference (Virtual)",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1607372400000,
+                    "transcriptId": "52D294AB-348D-4AF1-B734-65FA34E3AD41",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13471695",
+                    "name": "Cisco Systems Inc at Credit Suisse Technology Conference (Virtual)",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1606759200000,
+                    "transcriptId": "75FEC340-ADE3-4A7E-801A-0C1191A06448",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13471692",
+                    "name": "Cisco Systems Inc at RBC Global Technology, Internet, Media and Telecommunications Conference (Virtual)",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1605712500000,
+                    "transcriptId": "415FE1E1-A7AC-4186-A251-D595760255C5",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13357387",
+                    "name": "Q1 2021 Cisco Systems Inc Earnings Call",
+                    "eventType": "EarningsCallsAndPresentations",
+                    "startDate": 1605216600000,
+                    "transcriptId": "7F6596AB-BF91-481D-8FAE-793B7FD65752",
+                    "LiveDialInStartDate": 1605216600000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-888-848-6507",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12904239",
+                    "name": "Q1 2021 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1605215109000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13452784",
+                    "name": "Cisco Systems Inc Split For CSCO34.SA - Ratio 5-1",
+                    "eventType": "StockSplits",
+                    "startDate": 1604404800000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13423248",
+                    "name": "Cisco Systems Inc at Cowen Networking Leaders, Legends, Luminaries, and Visionaries Fireside Chat Series (Virtual) - Session 2",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1601912700000,
+                    "transcriptId": "D483D5EE-00D5-4FA1-9166-711114183866",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13423238",
+                    "name": "Cisco Systems Inc at Cowen Networking Leaders, Legends, Luminaries, and Visionaries Fireside Chat Series (Virtual) - Session 1",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1601910000000,
+                    "transcriptId": "241D294E-E79F-4C55-81DF-066EF7EE94F4",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13414885",
+                    "name": "Cisco Systems Inc at Cowen Networking Leaders, Legends, Luminaries, and Visionaries Fireside Chat Series",
+                    "eventType": "BrokerageAnalystCalls",
+                    "startDate": 1601910000000,
+                    "transcriptId": "FA68A718-5CE0-43C3-95EF-A0815AC717EF",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Expected",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13379863",
+                    "name": "Cisco Systems Inc at JPMorgan US All-Stars Conference (Virtual)",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1600253940000,
+                    "transcriptId": "8C7C02C6-4DDB-427B-97DB-C4C342585A99",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Expected",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13379854",
+                    "name": "Cisco Systems Inc at Citi Global Technology Conference (Virtual)",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1599759000000,
+                    "transcriptId": "2F669897-BACC-4D57-9DCB-F187927C0E29",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Expected",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13197965",
+                    "name": "Q4 2020 Cisco Systems Inc Earnings Call",
+                    "eventType": "EarningsCallsAndPresentations",
+                    "startDate": 1597264200000,
+                    "transcriptId": "826823DF-4888-48ED-AAE5-8C32BF4F1A4C",
+                    "LiveDialInStartDate": 1597264200000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-888-848-6507",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12706333",
+                    "name": "Q4 2020 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1597262708000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13208498",
+                    "name": "Cisco Systems Inc at Nasdaq Investor Conference (Virtual)",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1592305140000,
+                    "transcriptId": "E2BC5EDD-658E-436C-AA42-846A82C98C5A",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Expected",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13208495",
+                    "name": "Cisco Systems Inc at Bank of America Merrill Lynch Global Technology Conference (Virtual)",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1591281900000,
+                    "transcriptId": "C4B83875-EFB3-4A8D-891A-118F8DC3E287",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13217100",
+                    "name": "Cisco Systems, Inc. - Special Call",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1591200000000,
+                    "transcriptId": "4F242516-1F41-4432-9CE6-B7A1127A4F36",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Expected",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13210900",
+                    "name": "Cisco Systems Inc CEO Opening Keynote at Cisco Live 2020",
+                    "eventType": "CorporateAnalystMeetings",
+                    "startDate": 1591113600000,
+                    "transcriptId": "FBFDDB33-70FD-452E-97A3-8ACD6C848C99",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Expected",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13209555",
+                    "name": "Cisco Systems Inc to Acquire Thousand Eyes Inc M&A Presentation",
+                    "eventType": "MergerAndAcquisitionCallsAndPresentations",
+                    "startDate": 1590701400000,
+                    "transcriptId": "6A76012E-DEAA-4C59-9A7E-406125A6AD4A",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13163873",
+                    "name": "Cisco Systems Inc at Cowen TMT Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1590582600000,
+                    "transcriptId": "19C7CB93-E4C8-4E21-86A7-FFD5702AB8EC",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13206359",
+                    "name": "Cisco Systems, Inc. - Special Call",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1590505200000,
+                    "transcriptId": "25BC8283-A476-4C58-B4EC-938C3F551423",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13163865",
+                    "name": "Cisco Systems Inc at JPMorgan Technology, Media and Communications Conference (Virtual)",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1589453940000,
+                    "transcriptId": "6B5221EA-704E-4AA2-AF9D-A4F4B1C87B24",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Expected",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13048623",
+                    "name": "Q3 2020 Cisco Systems Inc Earnings Call",
+                    "eventType": "EarningsCallsAndPresentations",
+                    "startDate": 1589401800000,
+                    "transcriptId": "57E920C1-2546-4A33-B42E-3657A9490759",
+                    "LiveDialInStartDate": 1589401800000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-888-848-6507",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12705095",
+                    "name": "Q3 2020 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1589400304000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13098160",
+                    "name": "Cisco Systems Inc Tech Talk Hosted By Bank of America Merrill Lynch ",
+                    "eventType": "BrokerageAnalystCalls",
+                    "startDate": 1586271600000,
+                    "transcriptId": "F61774E7-DAC9-4EFA-8FDE-D93A2EC4FBDC",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13071517",
+                    "name": "Raymond James and Cisco to Host a Tech Talk on Cisco\u2019s Optical Business",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1584118800000,
+                    "transcriptId": "3A150931-E27F-41BE-AA16-25F4D8280F9D",
+                    "LiveDialInStartDate": 1584118800000,
+                    "liveDialInPassword": "2764789",
+                    "liveDialInPhoneNumber": "+1-(800) 867-6304",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13057391",
+                    "name": "Cisco Systems Inc at Morgan Stanley Technology, Media & Telecom Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1583423400000,
+                    "transcriptId": "BFE5C777-75A0-43D2-9D49-8F145502E976",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13057382",
+                    "name": "Cisco Systems Inc at KeyCorp Emerging Technology Summit",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1583352000000,
+                    "transcriptId": "1CD9046A-C31E-4C1F-A24D-6BC6B2B28274",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13054980",
+                    "name": "Cisco Systems Inc at Mitsubishi UFJ Securities Tech Tour",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1583146740000,
+                    "transcriptId": "B0B43CF2-2B0A-46D9-B276-8DD20BB853F9",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Expected",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13011933",
+                    "name": "Cisco Systems Inc at Goldman Sachs Technology & Internet Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1581617400000,
+                    "transcriptId": "2014AF1F-F043-4EBA-8215-F016C49D377D",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12923857",
+                    "name": "Q2 2020 Cisco Systems Inc Earnings Call",
+                    "eventType": "EarningsCallsAndPresentations",
+                    "startDate": 1581543000000,
+                    "transcriptId": "8EE837AD-E6FE-4E8F-901E-711F0B562C02",
+                    "LiveDialInStartDate": 1581543000000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-888-848-6507 ",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12370321",
+                    "name": "Q2 2020 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1581541504000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13011673",
+                    "name": "Cisco Systems Inc at Cisco Live Barcelona - Main Broadcast",
+                    "eventType": "CorporateAnalystMeetings",
+                    "startDate": 1580203800000,
+                    "transcriptId": "F1B4C64D-61A3-4851-90A2-2078B07D0A3D",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13011677",
+                    "name": "Cisco Systems Inc at Cisco Live Barcelona - Master Series",
+                    "eventType": "CorporateAnalystMeetings",
+                    "startDate": 1580203800000,
+                    "transcriptId": "D0013317-4067-42B8-8C4F-206CDA7BCC1D",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "13007872",
+                    "name": "Cisco Systems Inc Opening Keynote at Cisco Live Barcelona",
+                    "eventType": "CorporateAnalystMeetings",
+                    "startDate": 1580198400000,
+                    "transcriptId": "9A5A846D-9743-4B65-97F5-FE86466C96D8",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12984831",
+                    "name": "Cisco Systems Inc and Goldman Sachs to host ESG Conference Call",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1579017600000,
+                    "transcriptId": "7714F8AD-6CB5-41A4-AB22-1A82101F591D",
+                    "LiveDialInStartDate": 1579017600000,
+                    "liveDialInPassword": " 785452",
+                    "liveDialInPhoneNumber": "+1-877-208-2954",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12920228",
+                    "name": "Cisco Systems Inc at Barclays Global Technology, Media and Telecommunications Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1576186200000,
+                    "transcriptId": "9B7F1995-64C6-4E2A-AC72-6E5A21B7DC7D",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12944073",
+                    "name": "Cisco Systems Inc Future of the Internet Investor Event",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1576085400000,
+                    "transcriptId": "A8D07924-8F91-46C2-856D-FD1736F815E5",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12813706",
+                    "name": "Cisco Systems Inc Annual Shareholders Meeting",
+                    "eventType": "ShareholderAndAnnualMeetings",
+                    "startDate": 1575993600000,
+                    "transcriptId": "FADDB625-904E-41C7-A5D6-B9C540B5998F",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12922194",
+                    "name": "Cisco Systems Inc at Raymond James Technology Investors Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1575919500000,
+                    "transcriptId": "A52090C8-1EAB-415C-B6A2-6B19FFBCAD4D",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12919816",
+                    "name": "Cisco Systems Inc at Credit Suisse Technology, Media & Telecom Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1575396300000,
+                    "transcriptId": "039AEE77-46D8-49D7-B91E-1D5D2D809A37",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12704240",
+                    "name": "Q1 2020 Cisco Systems Inc Earnings Call",
+                    "eventType": "EarningsCallsAndPresentations",
+                    "startDate": 1573680600000,
+                    "transcriptId": "24F4D03E-AC27-4F21-BF67-56D90600F111",
+                    "LiveDialInStartDate": 1573680600000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-888-848-6507",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12370316",
+                    "name": "Q1 2020 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1573679105000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12711925",
+                    "name": "Cisco Systems Inc at JPMorgan US All Stars Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1568717940000,
+                    "transcriptId": "2438AA42-45E9-4B65-BBF6-80ADAC123D5B",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12711919",
+                    "name": "Cisco Systems Inc at Citi Global Technology Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1567704300000,
+                    "transcriptId": "402370C8-3FDA-45FF-901F-B3254CED22AE",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12669929",
+                    "name": "Cisco Systems Inc at Mitsubishi UFJ Tech Tour",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1566212340000,
+                    "transcriptId": "C35A9260-0E03-429F-AF94-D1D5CAE3C644",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12557762",
+                    "name": "Q4 2019 Cisco Systems Inc Earnings Call",
+                    "eventType": "EarningsCallsAndPresentations",
+                    "startDate": 1565814600000,
+                    "transcriptId": "34E71EAB-75C6-430F-9761-67906803B33C",
+                    "LiveDialInStartDate": 1565814600000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-888-848-6507",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12370297",
+                    "name": "Q4 2019 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1565813105000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12612456",
+                    "name": "Cisco Systems Inc Intends to Acquire Acacia Communications Inc Conference Call",
+                    "eventType": "MergerAndAcquisitionCallsAndPresentations",
+                    "startDate": 1562677200000,
+                    "transcriptId": "20DD110E-0E2E-4854-9AC6-14D49585A5BE",
+                    "LiveDialInStartDate": 1562677200000,
+                    "liveDialInPassword": "2557251",
+                    "liveDialInPhoneNumber": "+1-800-369-2024",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12593147",
+                    "name": "Cisco Systems Inc and Bank of America Merrill Lynch to host a Tech Talk on Cisco\u2019s Security Business",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1561388400000,
+                    "transcriptId": "0CCFEE2E-8620-4755-8506-51571588D23C",
+                    "LiveDialInStartDate": 1561388400000,
+                    "liveDialInPassword": "CISCO",
+                    "liveDialInPhoneNumber": "+1-517-308-9317",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12567877",
+                    "name": "Cisco Systems Inc at Piper Jaffray \u201cFish & Chips\u201d East Coast One-on-One Meetings Symposium",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1560423540000,
+                    "transcriptId": "E51CD747-88B2-4A68-B21C-C535C28297B3",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Expected",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12566140",
+                    "name": "Cisco Systems Inc at Bank of America Merrill Lynch Global Technology Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1559673900000,
+                    "transcriptId": "EDD11CFB-C978-4E43-86EA-3FE3817D89A2",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12490527",
+                    "name": "Cisco Systems Inc at Cowen Technology, Media & Telecom Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1559133000000,
+                    "transcriptId": "30FFBE42-1683-452E-ABDE-592B3DB6F0C2",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12522090",
+                    "name": "Cisco Systems Inc at UBS 5G Summit",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1558375200000,
+                    "transcriptId": "3353270B-EE87-4746-BCC7-27153C855BB6",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Error",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12348341",
+                    "name": "Q3 2019 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1557961200000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12348344",
+                    "name": "Q3 2019 Cisco Systems Inc Earnings Call",
+                    "eventType": "EarningsCallsAndPresentations",
+                    "startDate": 1557952200000,
+                    "transcriptId": "12766C16-5450-456F-93B7-2A3C2D777C2B",
+                    "LiveDialInStartDate": 1557952200000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-888-848-6507",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12441562",
+                    "name": "Cisco Systems Inc and JPMorgan Chase & Co to host a Tech Talk on Cisco\u2019s Enterprise Networking Strategy ",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1554217200000,
+                    "transcriptId": "9244FE2F-6C09-4E01-A8DA-7D62D03E55F3",
+                    "LiveDialInStartDate": 1554217200000,
+                    "liveDialInPassword": "CISCO",
+                    "liveDialInPhoneNumber": "+1-888-603-9605",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12345709",
+                    "name": "Goldman Sachs Group Inc and Cisco Systems Inc to Host Service Provider Tech Talk",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1551189600000,
+                    "transcriptId": "909C7222-B502-4711-81C1-DA00D0F7A584",
+                    "LiveDialInStartDate": 1551189600000,
+                    "liveDialInPassword": "796019",
+                    "liveDialInPhoneNumber": "+1-877-208-2954",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12293532",
+                    "name": "Cisco Systems Inc at Morgan Stanley Technology, Media & Telecom Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1551113100000,
+                    "transcriptId": "C19E0E1D-EB8A-4B35-B179-8627E14175A7",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12293507",
+                    "name": "Cisco Systems Inc at Goldman Sachs Technology & Internet Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1550170200000,
+                    "transcriptId": "0507C686-EE3E-4317-98A0-CC71AAF6B08E",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12212116",
+                    "name": "Q2 2019 Cisco Systems Inc Earnings Call",
+                    "eventType": "EarningsCallsAndPresentations",
+                    "startDate": 1550093400000,
+                    "transcriptId": "A6476ACF-D0DE-46A9-8309-1A913434E3B3",
+                    "LiveDialInStartDate": 1550093400000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-888-848-6507",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12195111",
+                    "name": "Q2 2019 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1550091906000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12229923",
+                    "name": "Cisco Systems Inc and UBS Group AG will host a ESG (Environmental, Social and Governance) Call",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1545062400000,
+                    "transcriptId": "EF14FC90-3D41-4C83-A9A4-C25C45AA4D27",
+                    "LiveDialInStartDate": 1545062400000,
+                    "liveDialInPassword": "21910788",
+                    "liveDialInPhoneNumber": "+1-800 694 5649",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12142833",
+                    "name": "Cisco Systems Inc Annual Shareholders Meeting",
+                    "eventType": "ShareholderAndAnnualMeetings",
+                    "startDate": 1544637600000,
+                    "transcriptId": "03E94E98-4BCE-4DA5-B1E7-F09DB41665EA",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12216477",
+                    "name": "Cisco Systems Inc at Cowen Network & Cybersecurity Summit",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1544525940000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12216476",
+                    "name": "Cisco Systems Inc at Barclays Global Technology, Media and Telecommunications Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1544122800000,
+                    "transcriptId": "427A1680-F6D0-4A9C-A92C-5670E36EEFFD",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12216474",
+                    "name": "Cisco Systems Inc at Nasdaq Investors Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1543999500000,
+                    "transcriptId": "384BDD2D-377A-475A-8D03-6E8D80C45D80",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12216473",
+                    "name": "Cisco Systems Inc at Wells Fargo Tech Summit",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1543958400000,
+                    "transcriptId": "C9F13C93-31AC-42F9-82A9-69A0F7B6B3CC",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12215749",
+                    "name": "Cisco Systems Inc and Goldman Sachs BDC Inc to discuss Cisco\u2019s Enterprise strategy and differentiated offerings",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1543856400000,
+                    "transcriptId": "ECA122A6-AA75-410A-979D-B7FC101417EA",
+                    "LiveDialInStartDate": 1543856400000,
+                    "liveDialInPassword": "930214",
+                    "liveDialInPhoneNumber": "+1-877-208-2954",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "12167425",
+                    "name": "Cisco Systems Inc at Credit Suisse Technology, Media & Telecom Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1543348800000,
+                    "transcriptId": "D9B0549E-0CEF-44C6-8972-6CD3ECB7F435",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11785262",
+                    "name": "Q1 2019 Cisco Systems Inc Earnings Call",
+                    "eventType": "EarningsCallsAndPresentations",
+                    "startDate": 1542231000000,
+                    "transcriptId": "F43650E6-C35C-4427-8456-CB09B0634A58",
+                    "LiveDialInStartDate": 1542231000000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-888-848-6507",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11780850",
+                    "name": "Q1 2019 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1542229514000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11840389",
+                    "name": "Cisco Systems Inc at JPMorgan US All Stars One-on-One Meetings Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1537268340000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11832947",
+                    "name": "Cisco Systems Inc at Deutsche Bank Technology Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1536865200000,
+                    "transcriptId": "EE0EF0CB-D995-4D01-B367-5A1A48D3FB79",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11840387",
+                    "name": "Cisco Systems Inc at Citi Global Technology Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1536243300000,
+                    "transcriptId": "813EFD94-795A-4EB5-A9B1-B857FA38B03F",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11808661",
+                    "name": "Macquarie and Cisco to Host SD-WAN Tech Talk",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1536163200000,
+                    "transcriptId": "5C44197E-B5B7-4337-8E93-F2F99891CF7C",
+                    "LiveDialInStartDate": 1536163200000,
+                    "liveDialInPassword": "7787272",
+                    "liveDialInPhoneNumber": "+1-877-674-0754",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11520204",
+                    "name": "Q4 2018 Cisco Systems Inc Earnings Call",
+                    "eventType": "EarningsCallsAndPresentations",
+                    "startDate": 1534365000000,
+                    "transcriptId": "062AA3A7-9CFD-4698-8917-0FD4F53DB589",
+                    "LiveDialInStartDate": 1534365000000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-888-848-6507",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11518061",
+                    "name": "Q4 2018 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1534363508000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11696198",
+                    "name": "Cisco Systems Inc Announces Intent to Acquire Duo Security Inc - M&A Call",
+                    "eventType": "MergerAndAcquisitionCallsAndPresentations",
+                    "startDate": 1533214800000,
+                    "transcriptId": "3AAAE10B-78E9-4939-9F9E-FC42DD1A15BE",
+                    "LiveDialInStartDate": 1533214800000,
+                    "liveDialInPassword": "3862813",
+                    "liveDialInPhoneNumber": "+1-800-779-1185",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11456448",
+                    "name": "Cisco Systems Inc at Maxim Group Silicon Valley Bus Tour",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1531258200000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11561382",
+                    "name": "Cisco Systems Inc and Goldman Sachs BDC Inc to host Tech Talk on Data Center Networking",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1529595000000,
+                    "transcriptId": "BD47AEE4-5701-4562-B87F-A2B87D10FE89",
+                    "LiveDialInStartDate": 1529595000000,
+                    "liveDialInPassword": "201872",
+                    "liveDialInPhoneNumber": "+1-877-208-2954",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11534405",
+                    "name": "Cisco Systems Inc at Nasdaq Investor Conference ",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1528816500000,
+                    "transcriptId": "AA1D606D-07DD-4F57-A9FA-7D1C658D4687",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11534401",
+                    "name": "Cisco Systems Inc at Bank of America Merrill Lynch Global Technology Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1528383600000,
+                    "transcriptId": "C65AD794-BB8B-4139-A800-4B8A092E7205",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11524890",
+                    "name": "Cisco Systems Inc and Oppenheimer to Discuss AppDynamics\u2019 Role, Portfolio and Position in the Market",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1528300800000,
+                    "transcriptId": "9BDED6A2-F799-4155-8D0F-29B2A2F51723",
+                    "LiveDialInStartDate": 1528300800000,
+                    "liveDialInPassword": "3399724",
+                    "liveDialInPhoneNumber": "+1-800-344-0695",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11469722",
+                    "name": "Cisco Systems Inc at Cowen Technology, Media & Telecom Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1527685500000,
+                    "transcriptId": "620730C9-FC7C-4CFF-BBDA-682C40121C6E",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11311155",
+                    "name": "Q3 2018 Cisco Systems Inc Earnings Call",
+                    "eventType": "EarningsCallsAndPresentations",
+                    "startDate": 1526502600000,
+                    "transcriptId": "F8054CC8-557F-4C24-8AB1-F89D4CD6869A",
+                    "LiveDialInStartDate": 1526502600000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-888-848-6507",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11270211",
+                    "name": "Q3 2018 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1526501103000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11341538",
+                    "name": "Cisco Systems Inc and Royal Bank of Canada to Host Tech Talk on Cisco's Enterprise Switching",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1520269200000,
+                    "transcriptId": "8A0BF914-694A-424C-8F94-9B7F9853712E",
+                    "LiveDialInStartDate": 1520269200000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-800-602-4090",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11302829",
+                    "name": "Cisco Systems Inc at Mitsubishi UFJ Securities Tech Tour",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1520247540000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11303875",
+                    "name": "Cisco Systems Inc and Raymond James Ltd Tech Talk to Discuss Cisco\u2019s Service Provider Strategy",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1519740000000,
+                    "transcriptId": "C83A6202-43B0-4FF4-92CE-DD5BC1C097B4",
+                    "LiveDialInStartDate": 1519740000000,
+                    "liveDialInPassword": "4458957",
+                    "liveDialInPhoneNumber": "+1-(800) 867-6304",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11235878",
+                    "name": "Cisco Systems Inc at Morgan Stanley Technology, Media & Telecom Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1519669800000,
+                    "transcriptId": "FDBD1B4C-9791-4835-9C5B-AF5C1065A1DF",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11299923",
+                    "name": "Cisco Systems Inc Investor Call Hosted by Aliya Capital",
+                    "eventType": "BrokerageAnalystCalls",
+                    "startDate": 1519408800000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11235877",
+                    "name": "Cisco Systems Inc at Goldman Sachs Technology & Internet Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1518720600000,
+                    "transcriptId": "E9995A81-7769-4A82-85DC-0583115C1407",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11117995",
+                    "name": "Q2 2018 Cisco Systems Inc Earnings Call",
+                    "eventType": "EarningsCallsAndPresentations",
+                    "startDate": 1518643800000,
+                    "transcriptId": "73544790-3914-49D8-B100-076BC8D38D4E",
+                    "LiveDialInStartDate": 1518643800000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-888-848-6507",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11109540",
+                    "name": "Q2 2018 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1518642000000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11189723",
+                    "name": "Cisco Systems Inc and Goldman Sachs BDC Inc at Environmental, Social and Governance Conference",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1515686400000,
+                    "transcriptId": "A446E879-25AF-4161-A686-E1AF055C14AA",
+                    "LiveDialInStartDate": 1515686400000,
+                    "liveDialInPassword": "408561",
+                    "liveDialInPhoneNumber": "+1-877-208-2954",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11132437",
+                    "name": "Cisco Systems Inc at Cowen Networking & Cybersecurity Summit",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1513162740000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11059299",
+                    "name": "Cisco Systems Inc Annual Shareholders Meeting",
+                    "eventType": "ShareholderAndAnnualMeetings",
+                    "startDate": 1513015200000,
+                    "transcriptId": "65BF8907-534B-46F8-B567-A7AC8B39033C",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11132436",
+                    "name": "Cisco Systems Inc at Barclays Global Technology, Media and Telecommunications Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1512673200000,
+                    "transcriptId": "3DE1D79C-C975-4C29-95E0-0D212A08DBB5",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11129734",
+                    "name": "Cisco Systems Inc at Wells Fargo Tech Summit",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1512595800000,
+                    "transcriptId": "D0B04F92-D62F-4C14-AF37-B9E7BF423572",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11132435",
+                    "name": "Cisco Systems Inc at Nasdaq Investor Program",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1512471600000,
+                    "transcriptId": "EDF83EB6-0D7F-4711-94FF-8D32EE33C0F6",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11131714",
+                    "name": "Baird and Cisco to Host Tech Talk on Cisco's Multi-Cloud Strategy",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1512406800000,
+                    "transcriptId": "BA04B0E6-EBAF-4104-B78C-C0916FF5EE31",
+                    "LiveDialInStartDate": 1512406800000,
+                    "liveDialInPassword": "8940210",
+                    "liveDialInPhoneNumber": "+1-844-834-0647",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11094682",
+                    "name": "Cisco Systems Inc at Credit Suisse Technology, Media and Telecom Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1511904600000,
+                    "transcriptId": "59A37AD7-EE08-4F27-86F4-B277BEBBC959",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "10883700",
+                    "name": "Q1 2018 Cisco Systems Inc Earnings Call",
+                    "eventType": "EarningsCallsAndPresentations",
+                    "startDate": 1510781400000,
+                    "transcriptId": "5A1368FB-7684-40D8-90C5-F04BFFAC71CF",
+                    "LiveDialInStartDate": 1510781400000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-888-848-6507",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "10842979",
+                    "name": "Q1 2018 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1510779600000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "11049901",
+                    "name": "Cisco Systems Inc Announces Agreement to Acquire BroadSoft Inc M&A Call",
+                    "eventType": "MergerAndAcquisitionCallsAndPresentations",
+                    "startDate": 1508763600000,
+                    "transcriptId": "5A13CE73-B991-408A-ACDC-9CD4277CB5DC",
+                    "LiveDialInStartDate": 1508763600000,
+                    "liveDialInPassword": "6823261",
+                    "liveDialInPhoneNumber": "+1-888-769-9722",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "10889030",
+                    "name": "Cisco Systems Inc at JPMorgan U.S. \u2018All Stars\u2019 Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1505818740000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "10891459",
+                    "name": "Cisco Systems Inc and KeyBanc Enterprise Networking Business Corporate Call",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1505401200000,
+                    "transcriptId": "27628BF3-6B05-460B-B0D4-62C9C2759F37",
+                    "LiveDialInStartDate": 1505401200000,
+                    "liveDialInPassword": "5741720",
+                    "liveDialInPhoneNumber": "+1-888-256-1027",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "10889026",
+                    "name": "Cisco Systems Inc at Deutsche Bank Technology Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1505234400000,
+                    "transcriptId": "E956CA6C-C04E-4792-97E4-3FADDAEA6487",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "10889017",
+                    "name": "Cisco Systems Inc at Citi Global Technology Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1504785600000,
+                    "transcriptId": "1C3DEFEB-CD36-48D9-B4D3-4266CADC5A7F",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "10889021",
+                    "name": "Cisco Systems Inc at UBS Best of Americas Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1504781940000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "10568675",
+                    "name": "Q4 2017 Cisco Systems Inc Earnings Call",
+                    "eventType": "EarningsCallsAndPresentations",
+                    "startDate": 1502915400000,
+                    "transcriptId": "B03208A2-7B53-4AE5-934D-45206CFA619A",
+                    "LiveDialInStartDate": 1502915400000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-888-848-6507",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "10526167",
+                    "name": "Q4 2017 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1502913600000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "10670606",
+                    "name": "Cisco Systems Inc Financial Analyst Conference",
+                    "eventType": "CorporateAnalystMeetings",
+                    "startDate": 1498662000000,
+                    "transcriptId": "45488F84-FD9D-4B38-B556-E3EEC7EBB58A",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "10626355",
+                    "name": "Cisco Systems Inc and Oppenheimer to Host Tech Talk on Cisco One Software",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1497538800000,
+                    "transcriptId": "5025593C-8AF8-4C9B-A900-E85EA25C1D56",
+                    "LiveDialInStartDate": 1497538800000,
+                    "liveDialInPassword": "36221078",
+                    "liveDialInPhoneNumber": "+1-(877) 462-1536",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "10598022",
+                    "name": "Cisco Systems Inc at Bank of America Merrill Lynch Global Technology Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1496760300000,
+                    "transcriptId": "4E650617-0BEF-4BA3-B95F-55566D61FE73",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "10418128",
+                    "name": "Q3 2017 Cisco Systems Inc Earnings Call",
+                    "eventType": "EarningsCallsAndPresentations",
+                    "startDate": 1495053000000,
+                    "transcriptId": "CD4DF81A-A645-4492-B15D-E8B52E7C6E44",
+                    "LiveDialInStartDate": 1495053000000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-888-848-6507",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "8327255",
+                    "name": "Q3 2017 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1495051200000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "10440088",
+                    "name": "Cisco Systems Inc at Stifel Waste360 WasteExpo Investor Summit",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1494361800000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "10414091",
+                    "name": "Cisco Systems Inc at Bloomberg Breakaway Summit",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1493834400000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "10406839",
+                    "name": "Cisco Systems, Inc. Presents at The 20th Annual Milken Institute Global Conference, May-01-2017 10:45 AM",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1493660700000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "10406757",
+                    "name": "Cisco Presents at The 20th Annual Milken Institute Global Conference, May-01-2017 09:30 AM",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1493656200000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "9386994",
+                    "name": "Cisco Systems Inc and UBS Group AG to Host Tech Talk on Cisco\u2019s IoT and Applications Strategy-Conference Call",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1489766400000,
+                    "transcriptId": "C22089D7-300D-43E8-BAC8-94F49AFC3D1E",
+                    "LiveDialInStartDate": 1489766400000,
+                    "liveDialInPassword": "21848098",
+                    "liveDialInPhoneNumber": "+1-(800) 670-5957",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "8928029",
+                    "name": "Cisco Systems Inc at Mitsubishi UFJ Securities Tech Tour - Silicon Valley",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1488884340000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "7674990",
+                    "name": "Cisco Systems Inc at Morgan Stanley Technology, Media & Telecom Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1488303000000,
+                    "transcriptId": "43FB9D07-C264-4E04-8F64-DCC9679FB85C",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "8575500",
+                    "name": "Bernstein and Cisco to Host Service Provider Tech Talk at Mobile World Congress 2017",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1488290400000,
+                    "transcriptId": "18AE1855-2941-41D5-B003-9DE2001911A3",
+                    "LiveDialInStartDate": 1488290400000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-(877) 405-0174",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "7674982",
+                    "name": "Cisco Systems Inc at Goldman Sachs Technology and Internet Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1487271000000,
+                    "transcriptId": "EBC85ECF-3B6D-4498-8E79-A39F18A0DB90",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "7068803",
+                    "name": "Q2 2017 Cisco Systems Inc Earnings Call",
+                    "eventType": "EarningsCallsAndPresentations",
+                    "startDate": 1487194200000,
+                    "transcriptId": "482D4B7A-40B6-464F-B793-044A255B1CD9",
+                    "LiveDialInStartDate": 1487194200000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-888-848-6507",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "6881505",
+                    "name": "Q2 2017 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1487192400000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "7624932",
+                    "name": "Cisco Systems Inc Announces Intent to Acquire AppDynamics Inc Conference Call",
+                    "eventType": "MergerAndAcquisitionCallsAndPresentations",
+                    "startDate": 1485367200000,
+                    "transcriptId": "461D835F-DFD5-4208-BCD3-25368D361CA8",
+                    "LiveDialInStartDate": 1485367200000,
+                    "liveDialInPassword": "1959867",
+                    "liveDialInPhoneNumber": "+1-888-469-0509 ",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "6403706",
+                    "name": "Cisco Systems Inc Annual Shareholders Meeting",
+                    "eventType": "ShareholderAndAnnualMeetings",
+                    "startDate": 1481565600000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "6392786",
+                    "name": "Cisco Systems Inc at Nasdaq Investor Program",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1480407300000,
+                    "transcriptId": "83FCB404-C632-40AB-9DB1-EB954B66489C",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "6094064",
+                    "name": "Q1 2017 Cisco Systems Inc Earnings Call",
+                    "eventType": "EarningsCallsAndPresentations",
+                    "startDate": 1479331800000,
+                    "transcriptId": "2ED0A713-34EE-4FF9-82D0-14164E0ACD84",
+                    "LiveDialInStartDate": 1479331800000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-888-848-6507",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "6089331",
+                    "name": "Q1 2017 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1479330000000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "6097205",
+                    "name": "Cisco Systems Inc at JPMorgan U.S. \u2018All Stars\u2019 Conference - 1x1 Meetings",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1474369140000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "6097201",
+                    "name": "Cisco Systems Inc at UBS Best of Americas Conference - 1x1 Meetings ",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1473937140000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "6097199",
+                    "name": "Cisco Systems Inc at Deutsche Bank Technology Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1473798000000,
+                    "transcriptId": "40FF990A-BEF9-4D19-AB6B-018BF626797B",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "6097193",
+                    "name": "Cisco Systems Inc at Citi Global Technologies Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1473260400000,
+                    "transcriptId": "D8130E7B-C143-4620-ADE5-A29EBF418797",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "6026871",
+                    "name": "Q4 2016 Cisco Systems Inc Earnings Call",
+                    "eventType": "EarningsCallsAndPresentations",
+                    "startDate": 1471465800000,
+                    "transcriptId": "26EC97D7-9F95-41A8-A374-B0E5D4DBEF5D",
+                    "LiveDialInStartDate": 1471465800000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-888-848-6507",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "6026166",
+                    "name": "Q4 2016 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1471464000000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "6042074",
+                    "name": "Cisco Systems Inc Conference call to Discuss Baird and Cisco Channel Tech Talk ",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1466096400000,
+                    "transcriptId": "7539A7E9-DA35-4E09-AA30-46C3B29545BF",
+                    "LiveDialInStartDate": 1466096400000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-888-566-5784",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "6028621",
+                    "name": "Cisco Systems Inc at Nasdaq Investor Program",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1466064000000,
+                    "transcriptId": "09D2CCD5-E544-4298-9145-5BF9FD13541A",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "6028620",
+                    "name": "Cisco Systems Inc at Bank of America Merrill Lynch Global Technology Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1464805800000,
+                    "transcriptId": "2650B87D-E041-44DB-872F-D1958D0447D0",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5955121",
+                    "name": "Q3 2016 Cisco Systems Inc Earnings Call",
+                    "eventType": "EarningsCallsAndPresentations",
+                    "startDate": 1463603400000,
+                    "transcriptId": "2619539B-A611-480F-93B9-217C5A48A56C",
+                    "LiveDialInStartDate": 1463603400000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-888-848-6507 ",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5924454",
+                    "name": "Q3 2016 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1463601600000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5981118",
+                    "name": "Cisco Systems Inc Tech Talk with Pacific Crest",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1460729700000,
+                    "transcriptId": "FFC3AF92-EBA5-4A87-98D7-12707A1B9B60",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5952643",
+                    "name": "Cisco Systems Inc UBS and Cisco - Data Center Tech Talk",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1457969400000,
+                    "transcriptId": "DB8B09E2-870D-4DB1-B10C-5D5B0BF6634C",
+                    "LiveDialInStartDate": 1457969400000,
+                    "liveDialInPassword": "21807612 ",
+                    "liveDialInPhoneNumber": "+1-800-680-6953 ",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5931708",
+                    "name": "Deutsche Bank and Cisco Systems Inc to Host Service Provider Tech Talk",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1456236000000,
+                    "transcriptId": "97047010-B3BA-434F-BE6F-E72386FAAF3B",
+                    "LiveDialInStartDate": 1456236000000,
+                    "liveDialInPassword": " 51737093",
+                    "liveDialInPhoneNumber": "+1-(877) 486-3593 ",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5917545",
+                    "name": "Cisco Systems Inc at Wells Fargo Cyber Security Forum",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1455706740000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5915151",
+                    "name": "Cisco Systems Inc at Goldman Sachs Technology Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1455217200000,
+                    "transcriptId": "36B2DEB2-AFD4-4B26-B960-7070CA0DE335",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5907332",
+                    "name": "Q2 2016 Cisco Systems Inc Earnings Call",
+                    "eventType": "EarningsCallsAndPresentations",
+                    "startDate": 1455139800000,
+                    "transcriptId": "931D1BA6-EAAA-4636-8907-1F77BF21354A",
+                    "LiveDialInStartDate": 1455139800000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-888-848-6507",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5867456",
+                    "name": "Q2 2016 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1455138000000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5917767",
+                    "name": "Cisco Systems Inc to Acquire Jasper Technologies Inc",
+                    "eventType": "MergerAndAcquisitionCallsAndPresentations",
+                    "startDate": 1454536800000,
+                    "transcriptId": "E48EA3B0-32F8-4CC6-8FA9-836156D253CA",
+                    "LiveDialInStartDate": 1454536800000,
+                    "liveDialInPassword": "6383252",
+                    "liveDialInPhoneNumber": "+1-888-810-6801",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5896588",
+                    "name": "Cisco Systems Inc at Bank of America Merrill Lynch Defense Outlook Forum",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1452177000000,
+                    "transcriptId": "CA747D1D-5D64-43B6-B0AA-44D1D10036F5",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5875614",
+                    "name": "Cisco Systems Inc at Barclays Global Technology Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1449604500000,
+                    "transcriptId": "BAC4C30A-4376-4008-846B-94DEFF5F5DBC",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5883713",
+                    "name": "Cisco Internet of Things World Forum",
+                    "eventType": "Conferences",
+                    "startDate": 1449399540000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5875612",
+                    "name": "Cisco Systems Inc at Nasdaq OMX Investor Program",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1449065700000,
+                    "transcriptId": "C738955B-5DBA-45DB-A0B7-9E64CA3549EA",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5828813",
+                    "name": "Cisco Systems Inc Annual Shareholders Meeting",
+                    "eventType": "ShareholderAndAnnualMeetings",
+                    "startDate": 1447956000000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5868522",
+                    "name": "Cisco Systems Inc at UBS Global Technology Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1447872300000,
+                    "transcriptId": "3C62A1B1-BDF5-4FAD-943D-442167543784",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5869703",
+                    "name": "Cisco Systems Inc Tech Talk - Driving Service Provider Network Innovation Conference Call",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1447862400000,
+                    "transcriptId": "E3736F4D-41A2-432A-B1C4-61C905BD4496",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5835743",
+                    "name": "Q1 2016 Cisco Systems Inc Earnings Call",
+                    "eventType": "EarningsCallsAndPresentations",
+                    "startDate": 1447363800000,
+                    "transcriptId": "2C214F05-07E6-4AAB-947E-A9D50F7127C4",
+                    "LiveDialInStartDate": 1447363800000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-888-848-6507",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5796497",
+                    "name": "Q1 2016 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1447362000000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5861629",
+                    "name": "Telefonaktiebolaget L M Ericsson and Cisco Systems Inc Partner to Create the Networks of the Future Corporate Call",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1447074900000,
+                    "transcriptId": "3267E2E5-BF58-48EF-8C47-B49536850498",
+                    "LiveDialInStartDate": 1447074900000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-646 722 4898",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5827977",
+                    "name": "Raymond James and Cisco to Host a Conference Call on Software",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1443801600000,
+                    "transcriptId": "36C8022B-B927-4B97-8FE0-C3C7756EDAA8",
+                    "LiveDialInStartDate": 1443801600000,
+                    "liveDialInPassword": "49662523",
+                    "liveDialInPhoneNumber": "+1-800-867-6304",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5827060",
+                    "name": "Deutsche Bank and Cisco to Host a Conference Call on Next Generation Security",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1443715200000,
+                    "transcriptId": "7A9B3DB0-C24D-40F1-A16F-FDADF7CF749F",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5808421",
+                    "name": "Cisco Systems Inc at Deutsche Bank Technology Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1442426400000,
+                    "transcriptId": "1BF75E91-9719-4237-8A20-3F51D8B7A6F9",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5808420",
+                    "name": "Cisco Systems Inc at CLSA Investors' Forum",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1442210400000,
+                    "transcriptId": "19D95578-7CEF-4A56-8FD2-09E278266696",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5808418",
+                    "name": "Cisco Systems Inc at UBS Best of Americas Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1441882740000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5798820",
+                    "name": "Cisco Systems Inc at Mitsubishi UFJ Securities Tech Tour - Silicon Valley",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1439809140000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5777202",
+                    "name": "Q4 2015 Cisco Systems Inc Earnings Call",
+                    "eventType": "EarningsCallsAndPresentations",
+                    "startDate": 1439411400000,
+                    "transcriptId": "F73E26EB-70CC-4792-84EB-383868DE4C87",
+                    "LiveDialInStartDate": 1439411400000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-8888486507",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5725570",
+                    "name": "Q4 2015 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1439409600000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5765647",
+                    "name": "Cisco Systems Inc Corporate Call - Goldman Sachs to Host Tech Talk With Cisco",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1437062400000,
+                    "transcriptId": "55C58A3B-2F89-4D96-B3EE-0FAFDB86DB87",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5746410",
+                    "name": "Cisco Systems Inc at NASDAQ  Investor Program",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1435647600000,
+                    "transcriptId": "76C8C126-7847-4E10-B4B5-4A3C1683EBF9",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5749923",
+                    "name": "SunTrust Robinson Humphrey to Host Tech Talk With Cisco Systems Inc Conference Call",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1434555000000,
+                    "transcriptId": "449F05F3-4590-41AB-A87E-35A3FE2231AA",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5743989",
+                    "name": "Cisco Systems Inc Investor Day",
+                    "eventType": "CorporateAnalystMeetings",
+                    "startDate": 1433862000000,
+                    "transcriptId": "C4770646-7A8E-46FD-8F5C-225C66F198F4",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5742036",
+                    "name": "Cisco Systems Inc at Bank of America Merrill Lynch Global Technology Conference ",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1433264400000,
+                    "transcriptId": "06B2E288-F295-4F96-9F7A-639967AC88A3",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5704912",
+                    "name": "Cisco Systems Inc at Barclays Americas Select Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1432030200000,
+                    "transcriptId": "B27442F7-E498-403B-8C15-473E036C5930",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5628070",
+                    "name": "Q3 2015 Cisco Systems Inc Earnings Call",
+                    "eventType": "EarningsCallsAndPresentations",
+                    "startDate": 1431549000000,
+                    "transcriptId": "8A621408-A905-4EFB-A988-F6914435B5AB",
+                    "LiveDialInStartDate": 1431549000000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-8888486507",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5625199",
+                    "name": "Q3 2015 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1431547200000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5669898",
+                    "name": "Cisco Systems Inc to Host Packet-Optical Convergence Tech Talk with UBS Securities Conference Call",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1428336000000,
+                    "transcriptId": "9213FFB8-2628-4F12-A038-0A0E907A3224",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5659007",
+                    "name": "Northland Securities and Cisco Systems to Host Analytics Tech Talk Corporate Call",
+                    "eventType": "CorporateCallsAndPresentations",
+                    "startDate": 1427122800000,
+                    "transcriptId": "A0B3A55B-C325-4D27-BD1D-8DBF69175ABB",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5643133",
+                    "name": "Cisco Systems Inc at Morgan Stanley Technology, Media & Telecom Conference",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1425571800000,
+                    "transcriptId": "AD70F59A-B3AB-445A-9FB9-D9670D4C3058",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5629785",
+                    "name": "Cisco Systems Inc at Wells Fargo Cyber Security Forum - One-on-One Meetings",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1424865600000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5606189",
+                    "name": "Cisco Systems Inc at Goldman Sachs Technology & Internet Conference\u00a0",
+                    "eventType": "ConferencePresentations",
+                    "startDate": 1423770600000,
+                    "transcriptId": "57091945-622F-4407-B5FB-36223EDF4361",
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5545105",
+                    "name": "Q2 2015 Cisco Systems Inc Earnings Call",
+                    "eventType": "EarningsCallsAndPresentations",
+                    "startDate": 1423690200000,
+                    "transcriptId": "62B1C4F7-E1A2-470E-80C9-BBE05509728F",
+                    "LiveDialInStartDate": 1423690200000,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": "+1-888-848-6507",
+                    "liveDialInStatus": "Available",
+                    "transcriptDownloadStatus": "Downloaded",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                },
+                {
+                    "EventId": "5540664",
+                    "name": "Q2 2015 Cisco Systems Inc Earnings Release",
+                    "eventType": "EarningsReleases",
+                    "startDate": 1423688400000,
+                    "transcriptId": null,
+                    "LiveDialInStartDate": null,
+                    "liveDialInPassword": null,
+                    "liveDialInPhoneNumber": null,
+                    "liveDialInStatus": null,
+                    "transcriptDownloadStatus": "NoTranscriptAvailable",
+                    "actualSymbols": [
+                        "CSCO"
+                    ],
+                    "__typename": "Event"
+                }
+            ],
+            "__typename": "Events"
+        }
+    }
+}

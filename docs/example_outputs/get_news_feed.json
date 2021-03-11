@@ -3,6 +3,49 @@
         "newsFeed": {
             "news": [
                 {
+                    "id": "b87d9acc-760e-4559-8fdd-8e8597c04c5d",
+                    "headlineText": "Cisco discloses appointment of Maria Martinez as COO",
+                    "revised": 1615240506000,
+                    "story": "On March 4, the Board of Directors of Cisco Systems appointed Maria Martinez as COO of Cisco. Ms. Martinez joined Cisco in April 2018 as EVP and Chief Customer Experience Officer, and in December 2020, Ms. Martinez took on an expanded role to lead certain operations functions in addition to customer experience as one, united team, including supply chain, IT, security and trust, data and analytics, customer and partner services, and strategy and business acceleration. ",
+                    "linkableCompanyRICs": [
+                        "CSCO"
+                    ],
+                    "linkableSectors": [],
+                    "type": "InPlayBIPStory",
+                    "saved": false,
+                    "inPlayBIPStory": {
+                        "categories": [],
+                        "__typename": "InPlayBIPStory"
+                    },
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
+                    "id": "bc524002-1c9e-4096-8dfb-3c19ef89157f",
+                    "headlineText": "Top-Five for the Dow Jones Industrial Average",
+                    "revised": 1615228965000,
+                    "story": "<ul><li>       Disney (<strong>DIS</strong>, 200.4294 +10.44 ,<span style=\"color: rgb(34, 136, 34);\"><strong> +5.49% </strong></span>): Rising to new all-time highs after California announced it would allow theme parks and stadiums to open at limited capcaity beginning April 1 </li><li> Visa (<strong>V</strong>, 224.62 +9.21 ,<span style=\"color: rgb(34, 136, 34);\"><strong> +4.28% </strong></span>): Hitting new all-time highs as Reopen trade in full swing </li><li> Cisco (<strong>CSCO</strong>, 48.3399 +2.09 ,<span style=\"color: rgb(34, 136, 34);\"><strong> +4.52% </strong></span>): Nearing 52-week high (49.34) that it hit a month ago </li><li> 3M (<strong>MMM</strong>, 185.21 +4.41 ,<span style=\"color: rgb(34, 136, 34);\"><strong> +2.44% </strong></span>): Continuing Friday's bounce off 20-day Moving Average (177) </li><li> Apple (<strong>AAPL</strong>, 118.085 -3.34 ,<span style=\" color: rgb(255,0,0);\"><strong> -2.75% </strong></span>): Trading around 2021 lows as select consumer Tech Giants continue to underperform </li></ul>",
+                    "linkableCompanyRICs": [
+                        "V",
+                        "AAPL",
+                        "DIS",
+                        "CSCO",
+                        "MMM",
+                        "DIA"
+                    ],
+                    "linkableSectors": [],
+                    "type": "InPlayBIPStory",
+                    "saved": false,
+                    "inPlayBIPStory": {
+                        "categories": [
+                            "ETF"
+                        ],
+                        "__typename": "InPlayBIPStory"
+                    },
+                    "isAtomPlus": true,
+                    "__typename": "NewsHeadline"
+                },
+                {
                     "id": "706c08b4-5675-4522-b56c-33ddd84f3440",
                     "headlineText": "Closing Stock Market Summary",
                     "revised": 1614979522000,
@@ -1200,70 +1243,6 @@
                     "inPlayBIPStory": {
                         "categories": [
                             "Earnings"
-                        ],
-                        "__typename": "InPlayBIPStory"
-                    },
-                    "isAtomPlus": true,
-                    "__typename": "NewsHeadline"
-                },
-                {
-                    "id": "68d014f7-6f1a-47e3-b216-64637914f215",
-                    "headlineText": "Top-Five for the Dow Jones Industrial Average",
-                    "revised": 1612807285000,
-                    "story": "<ul><li>       Disney (<strong>DIS</strong>, 189.755 +8.60 ,<span style=\"color: rgb(34, 136, 34);\"><strong> +4.74% </strong></span>): Surging to all-time highs as travel/airlines have been outperformers; Disney reports earnings results after the close on Thursday</li><li> Goldman Sachs (<strong>GS</strong>, 300.75 +7.25 ,<span style=\"color: rgb(34, 136, 34);\"><strong> +2.47% </strong></span>): Starting the week higher after it closed last week within reach of new all-time highs </li><li> Chevron (<strong>CVX</strong>, 91.12 +1.86 ,<span style=\"color: rgb(34, 136, 34);\"><strong> +2.08% </strong></span>): Grinding higher for sixth straight session; shares will look to close above its 20-Day Moving Average (89.43) for the first time since Jan. 22 </li><li> Cisco (<strong>CSCO</strong>, 48.92 +0.84 ,<span style=\"color: rgb(34, 136, 34);\"><strong> +1.75% </strong></span>): Continuing last week's run to 52-week highs; the Co is slated to report earnings after the close tomorrow </li><li> McDonald's (<strong>MCD</strong>, 210.175 -2.41 ,<span style=\" color: rgb(255,0,0);\"><strong> -1.13% </strong></span>): Falling back below its 20-Day Moving Average (210.76) after closing above it the last 2 sessions </li></ul>",
-                    "linkableCompanyRICs": [
-                        "CSCO",
-                        "CVX",
-                        "DIS",
-                        "MCD",
-                        "GS",
-                        "GS PR N",
-                        "GS PR K",
-                        "GS PR A",
-                        "GS PR C",
-                        "GS PR D",
-                        "GS PR B",
-                        "GSC",
-                        "DIA",
-                        "GS PR J"
-                    ],
-                    "linkableSectors": [],
-                    "type": "InPlayBIPStory",
-                    "saved": false,
-                    "inPlayBIPStory": {
-                        "categories": [
-                            "ETF"
-                        ],
-                        "__typename": "InPlayBIPStory"
-                    },
-                    "isAtomPlus": true,
-                    "__typename": "NewsHeadline"
-                },
-                {
-                    "id": "96c640e3-ccac-47f0-8ad9-43f32218093a",
-                    "headlineText": "Sector Briefing: Technology",
-                    "revised": 1612803078000,
-                    "story": "<p>The top-weighted technology sector (+0.5%) trades a bit ahead of the S&P 500 (+0.3%) and Nasdaq (+0.4%), but like the broader market, the sector has backed off its early high. </p><p> Key factors driving today's performance include: </p><ul><li>Leadership from high-beta chipmakers. The PHLX Semiconductor Index is higher by 1.8%, extending its Q1 gain to 8.7%. </li><li>Strong gains in large components like <strong>NVIDIA</strong> (<strong>NVDA </strong>567.25, +23.61, +4.3%) and <strong>PayPal</strong> (<strong>PYPL </strong>279.01, +9.57, +3.5%) overshadowing slim losses in other influential listings. </li></ul><p><strong>Notable movers:</strong> </p><ul><li><strong>NVIDIA</strong> (<strong>NVDA </strong>567.25, +23.61, +4.3%): best performer in the sector, rallying to its best level since early November. </li><li><strong>PayPal</strong> (<strong>PYPL </strong>279.01, +9.57, +3.5%): rallying to a fresh record high. </li><li><strong>HP</strong> (<strong>HPQ </strong>27.08, +0.93, +3.6%): touched its best level since September 2000 before narrowing its gain. </li><li><strong>AMD</strong> (<strong>AMD </strong>90.56, +2.66, +3.0%): rising toward its 50-day moving average (91.78). </li><li><strong>Cisco</strong> (<strong>CSCO </strong>48.82, +0.74, +1.6%): rising to a one-year high. </li><li><strong>Lam</strong> <strong>Research</strong> (<strong>LRCX </strong>519.88, +10.12, +2.0%): remaining just above its 50-day moving average (503.71). </li><li><strong>Accenture</strong> (<strong>ACN </strong>256.30, +2.76, +1.1%): reclaiming its 50-day moving average (253.99). </li><li><strong>IBM</strong> (<strong>IBM </strong>122.86, +1.07, +0.9%): rising back above its 200-day moving average (122.59). Company announced a partnership with <strong>Palantir</strong> <strong>Technologies</strong> (<strong>PLTR </strong>36.62, +2.57, +7.6%). </li><li> <strong>Apple</strong> (<strong>AAPL </strong>136.20, -0.56, -0.4%): slipping toward Thursday's low. </li><li><strong>DXC</strong> <strong>Technology</strong> (<strong>DXC </strong>25.30, -0.64, -2.5%): weakest performer in the sector, falling below its 50-day moving average (25.68).</li></ul>",
-                    "linkableCompanyRICs": [
-                        "NVDA",
-                        "DXC",
-                        "ACN",
-                        "IBM",
-                        "CSCO",
-                        "AMD",
-                        "HPQ",
-                        "XLK",
-                        "LRCX",
-                        "PLTR",
-                        "AAPL",
-                        "PYPL"
-                    ],
-                    "linkableSectors": [],
-                    "type": "InPlayBIPStory",
-                    "saved": false,
-                    "inPlayBIPStory": {
-                        "categories": [
-                            "ETF"
                         ],
                         "__typename": "InPlayBIPStory"
                     },
