@@ -10,6 +10,10 @@ class TestCollector(TestCase):
         self.collector = Collector()
         self.symbol = "CSCO"
 
+    def test_check_symbol_exists(self):
+        response = self.collector.check_symbol_exists(self.symbol)
+        self.assertTrue(response)
+
     def test_get_better_consensuses(self):
         response = self.collector.get_better_consensuses(self.symbol)
         self.assertNotEqual(response["data"]["symbol"]["betterConsensuses"], None)

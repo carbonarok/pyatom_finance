@@ -2,6 +2,7 @@
 import jinja2
 
 from pyatom_finance import config
+from pyatom_finance.exceptions import StockCollectorRequesterError
 from pyatom_finance.requester import Requester
 
 
@@ -17,6 +18,20 @@ class Collector:
     def _render_template(self, template, **kwargs):
         template = self.template_env.get_template(template)
         return template.render(**kwargs)
+
+    def check_symbol_exists(self, symbol):
+        """Ensure symbol exists before use."""
+        payload = {
+            "operationName": "getSymbol",
+            "variables": {"symbol": symbol},
+            "query": self._render_template("get_symbol.j2"),
+        }
+        resp = self.requester.post_request(payload)
+        if not resp["data"]["symbol"]:
+            raise StockCollectorRequesterError(
+                "Unknown Symbol", f"Unable to find symbol in Atom, please check symbol:{symbol}"
+            )
+        return True
 
     def get_better_consensuses(self, symbol):
         """getBetterConsensuses"""
