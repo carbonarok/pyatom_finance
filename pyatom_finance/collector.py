@@ -29,7 +29,7 @@ class Collector:
         resp = self.requester.post_request(payload)
         if not resp["data"]["symbol"]:
             raise StockCollectorRequesterError(
-                "Unknown Symbol", f"Unable to find symbol in Atom, please check symbol:{symbol}"
+                "Unknown Symbol", f"Unable to find symbol in Atom, please check symbol: {symbol}"
             )
         return True
 

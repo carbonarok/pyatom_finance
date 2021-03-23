@@ -46,6 +46,7 @@ config.load()
 config.SETTINGS.username = "[username]"
 config.SETTINGS.password = "[password]"
 collector = Collector()
+print(collector.check_symbol_exists("CSCO"))
 print(collector.get_better_consensuses("CSCO"))
 print(collector.get_brokerage_actions("CSCO"))
 print(collector.get_chart_interday("CSCO"))
