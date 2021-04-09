@@ -2,6 +2,12 @@
 
 ## Install
 
+### Pip
+
+`pip install pyatom_finance`
+
+### Poetry
+
 1) Clone repository
 2) Change directory to project root
 3) Run `poetry install`
