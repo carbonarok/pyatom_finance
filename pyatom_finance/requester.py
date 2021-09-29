@@ -21,10 +21,7 @@ class Requester:
             "password": config.SETTINGS.password,
         }
         resp = self.session.request(
-            "POST",
-            config.SETTINGS.atom_signin_url,
-            data=json.dumps(payload),
-            headers=self.headers,
+            "POST", config.SETTINGS.atom_signin_url, data=json.dumps(payload), headers=self.headers,
         )
         if 199 < resp.status_code < 300:
             resp = resp.json()
@@ -35,12 +32,7 @@ class Requester:
 
     def post_request(self, query):
         """Generic post request"""
-        resp = self.session.request(
-            "POST",
-            config.SETTINGS.atom_url,
-            data=json.dumps(query),
-            headers=self.headers,
-        )
+        resp = self.session.request("POST", config.SETTINGS.atom_url, data=json.dumps(query), headers=self.headers,)
         if 199 < resp.status_code < 300:
             return resp.json()
         raise StockCollectorRequesterError(reason="Bad HTTP status code", message=resp.text)

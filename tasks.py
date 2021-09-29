@@ -74,10 +74,7 @@ def run_cmd(context, exec_cmd, local=INVOKE_LOCAL):
         result = context.run(exec_cmd, pty=True)
     else:
         print(f"DOCKER - Running command: {exec_cmd} container: {IMAGE_NAME}:{IMAGE_VER}")
-        result = context.run(
-            f"docker run -it -v {PWD}:/local {IMAGE_NAME}:{IMAGE_VER} sh -c '{exec_cmd}'",
-            pty=True,
-        )
+        result = context.run(f"docker run -it -v {PWD}:/local {IMAGE_NAME}:{IMAGE_VER} sh -c '{exec_cmd}'", pty=True,)
 
     return result
 
@@ -91,8 +88,7 @@ def build(context):
     """
     print(f"Building container {IMAGE_NAME}:{IMAGE_VER}")
     result = context.run(
-        f"docker build --tag {IMAGE_NAME}:{IMAGE_VER} --build-arg PYTHON_VER={PYTHON_VER} -f Dockerfile .",
-        hide=True,
+        f"docker build --tag {IMAGE_NAME}:{IMAGE_VER} --build-arg PYTHON_VER={PYTHON_VER} -f Dockerfile .", hide=True,
     )
     if result.exited != 0:
         print(f"Failed to build container {IMAGE_NAME}:{IMAGE_VER}\nError: {result.stderr}")

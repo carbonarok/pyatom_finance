@@ -14,12 +14,7 @@ collector = Collector()
 def write_json(name, output):
     """Write dictionaries to JSON file"""
     with open(f"./{name}.json", "w+") as file:
-        file.write(
-            json.dumps(
-                output,
-                indent=4,
-            )
-        )
+        file.write(json.dumps(output, indent=4,))
 
 
 write_json("get_better_consensuses", collector.get_better_consensuses(SYMBOL))

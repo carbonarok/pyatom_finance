@@ -118,11 +118,7 @@ class Collector:
         """getNewsFeed"""
         payload = {
             "operationName": "getNewsFeed",
-            "variables": {
-                "symbols": [symbol],
-                "page": 0,
-                "research": False,
-            },
+            "variables": {"symbols": [symbol], "page": 0, "research": False},
             "query": self._render_template("get_news_feed.j2"),
         }
         return self.requester.post_request(payload)
@@ -149,11 +145,7 @@ class Collector:
         """getPeriodGuidance"""
         payload = {
             "operationName": "getPeriodGuidance",
-            "variables": {
-                "symbol": symbol,
-                "start": 0,
-                "end": 3,
-            },
+            "variables": {"symbol": symbol, "start": 0, "end": 3},
             "query": self._render_template("get_period_guidance.j2"),
         }
         return self.requester.post_request(payload)
@@ -162,11 +154,7 @@ class Collector:
         """getRelativeConsensuses"""
         payload = {
             "operationName": "getRelativeConsensuses",
-            "variables": {
-                "symbol": symbol,
-                "start": 0,
-                "end": 3,
-            },
+            "variables": {"symbol": symbol, "start": 0, "end": 3},
             "query": self._render_template("get_relative_consensuses.j2"),
         }
         return self.requester.post_request(payload)
