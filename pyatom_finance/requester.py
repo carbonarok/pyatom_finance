@@ -15,7 +15,7 @@ class Requester:
         self.session = requests.session()
 
     def create_session(self):
-        """Create session saving coookies for auth"""
+        """Create session saving cookies for auth"""
         payload = {
             "username": config.SETTINGS.username,
             "password": config.SETTINGS.password,
